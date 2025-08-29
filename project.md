@@ -46,7 +46,9 @@ The course project will be seriously started in the second half of the course. I
 
 ## Suggested Project Topics
 
-### Category A: _Multimodal Generative Models_
+### TBA
+
+<!-- ### Category A: _Multimodal Generative Models_ -->
 
 <!-- #### __Topic A-1: Text-to-Image Generation using Pretrained LMs and Generative Architectures__
 - [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryA/TopicA_1.pdf) 
