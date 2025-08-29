@@ -27,7 +27,7 @@ course_semester: "Fall 2025"
 
 assgn_mark: 45%
 assgn_desc: "4 assignment sets"
-assgn_txt: "No need to say that this is the most important part! We are learning Deep Learning. This means that we should get our hands dirty and implement whatever we learn. There will be four set of assignments. Roughly speaking, the first one goes through basics and make you get into the mood of the course. The next three go through MLPs, CNNs and Sequence Models. There will be also some optional items for self-practice. The assignments will count roughly for 45% of your final mark. When solving them please pay attention to the [Code of Honor]({{site.baseurl}}/assignments)!"
+assgn_txt: "No need to say that this is the most important part! We are learning Deep Learning. This means that we should get our hands dirty and implement whatever we learn. There will be four set of assignments. Roughly speaking, the first one goes through basics and make you get into the mood of the course. The next three go through MLPs, CNNs and Sequence Models. There will be also some optional items for self-practice. The assignments will count roughly for 45% of your final mark."
 
 exam_mark: 25%
 exam_desc: "midterm exam"
