@@ -1,0 +1,259 @@
+---
+layout: default
+---
+
+<div class="home">
+  
+  <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+  
+  {% include announcements.html %}
+  <br />
+  
+  {{ content }}
+
+  <h2>Course Description</h2>
+  <p>{{ site.course_description }}</p>
+  
+  
+
+  <h2>Time and Place</h2>
+  <h3>Lectures</h3>
+  <p>Lectures start on <strong>{{ site.start_date }}</strong>. {{site.start_description}}</p>
+  <table style="border-collapse: collapse; width: 90%;margin-top: 10pt; margin-bottom: 10pt; border: .5px solid black;">
+    <tr class="row1" style="background-color: rgb(242, 242, 242);">
+      <td><em>Day</em></td>
+      <td><em>Time</em></td>
+      <td><em>Place</em></td>
+    </tr>
+    <tr class="row2" style="background-color: white;">
+      <td><strong>{{ site.day1 }}</strong></td>
+      <td><strong>{{ site.time1 }}</strong></td>
+      <td>{{ site.loc1 }}</td>
+    </tr>
+    <tr class="row3" style="background-color: white;">
+      <td><strong>{{ site.day2 }}</strong></td>
+      <td><strong>{{ site.time2 }}</strong></td>
+      <td>{{ site.loc2 }}</td>
+    </tr>
+  </table>
+
+
+  <h3>Tutorials</h3>
+  <p>Tutorials sessions start on <strong>{{ site.start_dateTut }}</strong>.</p>
+  <table style="border-collapse: collapse; width: 90%;margin-top: 10pt; margin-bottom: 10pt; border: .5px solid black;">
+    <tr class="row1" style="background-color: rgb(242, 242, 242);">
+      <td><em>Day</em></td>
+      <td><em>Time</em></td>
+      <td><em>Place</em></td>
+    </tr>
+    <tr class="row2" style="background-color: white;">
+      <td><strong>{{ site.dayTut }}</strong></td>
+      <td><strong>{{ site.timeTut }}</strong></td>
+      <td>{{ site.locTut }}</td>
+    </tr>
+  </table>
+
+   <h3>Course Office Hours</h3>
+  
+   <table style="border-collapse: collapse; width: 90%;margin-top: 10pt; margin-bottom: 10pt; border: .5px solid black;">
+    <tr class="row1" style="background-color: rgb(242, 242, 242);">
+      <td><em>Day</em></td>
+      <td><em>Time</em></td>
+    </tr>
+    <tr class="row2" style="background-color: white;">
+      <td><strong>{{ site.dayOffice }}</strong></td>
+      <td><strong>{{ site.timeOffice }}</strong></td>
+    </tr>
+  </table>
+  
+  {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
+  <h2>Previous Offerings</h2>
+  <ul class="previous-offerings">
+    {% for offer in site.data.previous_offering.offerings %}
+    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  
+  <br>
+  <!-- <div> -->
+    <div style="width:95%; float: left">
+      <!-- <h2>Instructors</h2> -->
+      <!-- <div class="image--cover-container">
+        <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
+        <p>{{site.data.people.instructor.name}}</p>
+      </div> -->
+      
+      <div class="profile-pic-gallary" style="width:95%; float: left">
+        <h2>Instructor</h2>
+        {% for ins in site.data.people.instructors %}
+        <div class="image--cover-container">
+          <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+          {% if ins.webpage %}
+          <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+          {% else %}
+          <p>{{ins.name}}</p>
+          {% endif %}
+        </div>
+        <p style="margin: 0;">{{ins.title}}</p>
+        <p style="margin: 0;">{{ins.affil}}</p>   
+        <p style="margin: 0;">{{ins.address}}</p>
+        {% endfor %}
+      </div>
+    </div>
+    
+    <div style="width:95%; float: left">
+      <div class="profile-pic-gallary ">
+        <h2>Teaching Assistants</h2>
+        {% for ta in site.data.people.teaching_assistants %}
+        <div class="image--cover-container" style="width:20%; float: left">
+          <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+          {% if ta.webpage %}
+          <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+          {% else %}
+          <p>{{ta.name}}</p>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  <!-- </div> -->
+</div>
+
+<h2>Course Syllabus</h2>
+
+<p>The course consists of three major parts: in Part I, we start with <em>language models</em>. Note that we do <strong>not</strong> get into the details from the natural language processing viewpoint, and mainly get the idea of how we can <em>build a generative model.</em> We will then formally define the problem of data generation and go through the key ideas for building a generative model, i.e., sampling from a data distribution, in Part II. Part III goes briefly through the recent advancements. Below is the detailed syllabus. 
+</p>
+<p>
+<div style="background-color: rgba(244, 233, 233, 0.99); padding: 10px;">
+<h3>Part I: Initial Trial to Generate Data</h3>
+<ol>
+  <li><strong>Generating text</strong></li>
+  <ul>
+    <li>Review: Sequence-to-sequence models</li>
+    <li>Language model</li>
+    <ul>
+      <li>Large Language Models</li>
+      <li>Looking into some LLMs</li>
+    </ul>
+    <li>Using LLMs in practice</li>
+    <ul>
+      <li>Training</li>
+      <li>Fine-tuning</li>
+      <li>Prompting</li>
+    </ul>
+  </ul>
+  <li><strong>Stochastic viewpoint on data generation</strong></li>
+  <ul>
+    <li>Looking at data as random process</li>
+    <ul>
+      <li>Data space versus dataset</li>
+      <li>Data distribution</li>
+    </ul>
+    <li>Data generation by sampling from data distribution</li>
+  </ul>
+</ol>
+</div>
+
+<div style="background-color: rgba(246, 250, 246, 0.9); padding: 10px;">
+<h3>Part II: Deep Generative Models</h3>
+<ol>
+  <li><strong>Learning explicitly the data distribution</strong></li>
+  <ul>
+    <li>Approximating data distribution via learnable models</li>
+    <li>Training via maximum likelihood</li>
+    <li>Some early examples</li>
+    <ul>
+      <li>Autoregressive Models</li>
+      <li>Flow-based Generative Models</li>
+    </ul>
+  </ul>
+  <li><strong>GANs: Learning data distribution implicitly via adversarial networks</strong></li>
+  <ul>
+    <li>Generative adversarial networks (GANs)</li>
+    <ul>
+      <li>Minmax game</li>
+      <li>Implicit learning of data distribution</li>
+      <li>Interpreting minmax problem as divergence minimization</li>
+    </ul>
+    <li>Wasserstein GANs and recent advancements</li>
+    <ul>
+      <li>Replacing KL divergence with Earth Mover (EM)</li>
+      <li>Impacts of EM minimization on stability</li>
+    </ul>
+  </ul>
+  <li><strong>VAEs: Learning data distribution via variational inference</strong></li>
+  <ul>
+    <li>Review: Autoencoders and latent space</li>
+    <ul>
+      <li>The concept of latent space</li>
+      <li>Data generation by sampling from latent space</li>
+    </ul>
+    <li>Variational inference</li>
+    <li>Variational Autoencoders</li>
+    <ul>
+      <li>Autoencoders with variational latent space</li>
+      <li>Data generation by sampling from variational latent space</li>
+    </ul>
+  </ul>
+  <li><strong>Diffusion Models: Learning data distribution from variational processes</strong></li>
+  <ul>
+    <li>Constructing variational processes via diffusion</li>
+    <ul>
+      <li>The idea of diffusion</li>
+      <li>Interpreting diffusion as variational inference</li>
+    </ul>
+    <li>Forward and reverse processes</li>
+    <ul>
+      <li>Forward process – Noising procedure</li>
+      <li>Reverse process – Denoising procedure</li>
+    </ul>
+    <li>Training diffusion-based generative models</li>
+  </ul>
+</ol>
+</div>
+
+<div style="background-color: rgba(221, 236, 239, 0.99); padding: 10px;">
+<h3>Part III: Recent Advancements</h3>
+<ol>
+  <li><strong>Multimodal Models</strong></li>
+  <li><strong>Conditional generative models</strong></li>
+</ol>
+</div>
+</p>
+
+<h2>Course Evaluation</h2>
+<p>The learning procedure consists of three components:
+  <table style="border-collapse: collapse; width: 90%;margin-top: 10pt; margin-bottom: 10pt;">
+    <tr class="row1" style="background-color: rgb(242, 242, 242);">
+      <td><em>Component</em></td>
+      <td><em>Grade %</em></td>
+      <td><em></em></td>
+    </tr>
+    <tr class="row2" style="background-color: rgb(201, 235, 247);">
+      <td><strong>Assignments</strong></td>
+      <td><strong>{{site.assgn_mark}}</strong></td>
+      <td><em>{{site.assgn_desc}}</em></td>
+    </tr>
+    <tr class="row3" style="background-color: rgb(217, 244, 217);">
+      <td><strong>Exam</strong></td>
+      <td><strong>{{site.exam_mark}}</strong></td>
+      <td><em>{{site.exam_desc}}</em></td>
+    </tr>
+    <tr class="row4" style="background-color: rgb(252, 215, 215);">
+      <td><strong>Project</strong></td>
+      <td><strong>{{site.project_mark}}</strong></td>
+      <td><em>{{site.project_desc}}</em></td>
+    </tr>
+  </table>
+  Let's get through them a bit in detail.</p>
+  
+  <h2>Assignment</h2>
+  <p>{{site.assgn_txt}}</p>
+  
+  <h2>Exam</h2>
+  <p>{{site.exam_txt}}</p>
+  
+  <h2>Course Project</h2>
+  <p>{{site.project_txt}}</p>
+  
