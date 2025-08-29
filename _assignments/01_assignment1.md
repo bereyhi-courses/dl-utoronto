@@ -1,4 +1,4 @@
----
+<!-- ---
 type: assignment
 date: 2025-05-20T15:00:00-4:00
 title: 'Assignment #1 - Language Modeling'
@@ -10,4 +10,4 @@ due_event:
     date: 2025-06-05T23:59:59-4:00
     description: 'Assignment #1 due'
 ---
-Please submit through the [provided Crowdmark link](https://app.crowdmark.com/student/assessments/assignment-1-language-modeling)
+Please submit through the [provided Crowdmark link](https://app.crowdmark.com/student/assessments/assignment-1-language-modeling) -->
