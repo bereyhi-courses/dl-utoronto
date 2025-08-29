@@ -12,10 +12,10 @@ permalink: /project/
 
 The course project will be seriously started in the second half of the course. In these project, you choose a topic from the list of available topics and work through semester to deliver the requested outcomes of the project. Regardless of topic of the project, you will need to follow the following steps:
 
-1. Make a group of 4. Due to the course size, smaller group size is only accepted under __special circumstances,__ e.g., working on an open-ended topic of your own or a group member dropping in the middle of semester. 
-2. Choose your topic by the end of __Week 6.__ It is strongly suggested to choose _as soon as possible_ to get into the problem and start preliminaries.
+1. Make a group of 3 or 4. Due to the course size, smaller group size is only accepted under __special circumstances,__ e.g., working on an open-ended topic of your own or a group member dropping in the middle of semester. 
+2. Submit your topic by the end of __Week 5.__ It is strongly suggested to choose _as soon as possible_ to get into the problem and start preliminaries.
 2. You will be allocated to a TA, who could help you throughout the project.
-3. Deliver initial milestones of the project in a progress briefing. The progress briefing will serve as the base for your final report.
+3. Deliver initial milestones of the project in a progress briefing by __Week 10__. The progress briefing will serve as the base for your final report.
 4. Deliver your final results by the end of semester. This includes the final report, the source codes, and a final presentation in our internal seminar.
 
 <p>
@@ -35,10 +35,11 @@ The course project will be seriously started in the second half of the course. I
     </li>
     <li>
       A final report (maximum <em>5 pages</em>) must be submitted in a PDF format. The report should be written in the provided formal style, including an abstract, introduction, method, experiments, results, and conclusion.<br>
+      <strong>Important:</strong> Please make sure to complete the section <em>Consent for Information Sharing.</em>
       <strong>Important:</strong> Submissions that do not use template are considered <em>incomplete.</em>
     </li>
     <li>
-      A 5-minute presentation (maximum <em>5 slides including the title slide</em>) is given on the internal seminar on Week 14, i.e., <em>Aug 4 to Aug 8,</em> by the group. For presentation, any template can be used.
+      A 5-minute presentation (maximum <em>5 slides including the title slide</em>) is given on the internal seminar on Week 15, i.e., <em>Dec 8 to Dec 12,</em> by the group. For presentation, any template can be used.
     </li>
   </ul>
 </div>
@@ -57,7 +58,7 @@ The course project will be seriously started in the second half of the course. I
 
 
 ## Templates for Proposal, Report and Presentation
-* [Proposal Template]({{site.baseurl}}/assets/Project_Materials/Proposal_Template.zip) This is the template for _Category D: Open-ended._ You _can_ use other template as well
+* [Proposal Template]({{site.baseurl}}/assets/Project_Materials/Proposal_Template.zip) This is the template for project proposal. You _can_ use other template as well
 * [Report Template - LaTex]({{site.baseurl}}/assets/Project_Materials/Project_Report_Template.zip): Other templates are __not__ accepted! 
 * [Prsentation Template]({{site.baseurl}}/assets/Project_Materials/Template_Slides_Presentation.zip) You _can_ use other template as well
 
