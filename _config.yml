@@ -1,43 +1,41 @@
 # schedule
 day1: Tuesdays
-time1: 6 - 8 PM
-loc1: <strong>BA1170</strong> - <em>Bahen Centre for Information Technology</em>
+time1: 11 AM - 1 PM
+loc1: <strong>SF-1101</strong> - <em>Sandford Fleming Building</em>
 
-day2: Thursdays
-time2: 6 - 8 PM
-loc2: <strong>BA1190</strong> - <em>Bahen Centre for Information Technology</em>
+day2: Fridays
+time2: 11 AM - 1 PM
+loc2: <strong>MP-103</strong> - <em>McLennan Physical Laboratories</em>
 
-dayTut: Tuesdays
-timeTut: 5 - 6 PM
-locTut: <strong>BA1170</strong> - <em>Bahen Centre for Information Technology</em>
+dayTut: TBA
+timeTut: TBA
+locTut: <strong>TBA</strong> - <em>TBA</em>
 
-start_date: May 6, 2025
-start_description: Please note that the lecture halls are different in Tuesdays and Thursdays.
+start_date: September 2, 2025
+start_description: Please note that the lecture halls are different in Tuesdays and Fridays.
 
-start_dateTut: May 20, 2025
+start_dateTut: TBA
 
-dayOffice: Wednesdays 
-timeOffice: 12:00 - 1:00 PM
+dayOffice: TBA 
+timeOffice: TBA
 
 # Site settings
 course_name: Applied Deep Learning
-course_description: "This course aims to build a good understanding on Generative Models, the state-of-the-art architectures and their applications. The course in designed in two major parts, where in the first part the basic idea of data generation is introduced, and some mathematical foundations are provided. In this respect, the course looks at <em>Large Language Models</em> as an initial generative model and discusses some advancement in this respect. The second part of the course gets into the three major approaches for designing a generative model: namely, <em>generative adversarial networks (GANs), variational autoencoders (VAEs), and diffusion models.</em> The course finally goes through some recent advancements in generative AI. To follow the contents of this course, the students need to have a good understanding of machine learning models, particularly neural networks. Knowledge in more advanced topics like unsupervised learning methods, or newer architectures will be given in the course throughout the semester. A primary course in Machine Learning has hence been considered as the prerequisite. It is expected that the second part of the course dominates, i.e., approximately half of lectures will be on deep generative models."
+course_description: "The key goal of this course is to provide a fundamental understanding on Computational Learning, its functionality, and its deployment towards building information processing units. These concepts are keys to Deep Learning and its Applications. The course is designed to give a good mixture of fundamental notions and hands-on skills by teaching both theory of deep learning and recent advances in this area."
 course_semester: "Fall 2025"
 
 
 assgn_mark: 45%
 assgn_desc: "4 assignment sets"
-assgn_txt: "This is the most important part: <em>there is no way to learn a topic like Generative Models unless we get our hands dirty and implement whatever we learn.</em> Roughly speaking, the first one goes through basics and make you play around with language models. The next two go through go through different ideas for data generation, i.e., GAN, VAE and Diffusion. The assignments include both analytic and programming tasks and count roughly for 45% of your final mark."
-
-# Attention 	The assignments are a part of learning procedure. This means that they are prerequisites for understanding next parts! When solving them please pay attention to the Code of Honor!
+assgn_txt: "No need to say that this is the most important part! We are learning Deep Learning. This means that we should get our hands dirty and implement whatever we learn. There will be four set of assignments. Roughly speaking, the first one goes through basics and make you get into the mood of the course. The next three go through MLPs, CNNs and Sequence Models. There will be also some optional items for self-practice. The assignments will count roughly for 45% of your final mark. When solving them please pay attention to the [Code of Honor]({{site.baseurl}}/assignments)!"
 
 exam_mark: 25%
 exam_desc: "midterm exam"
-exam_txt: "In the middle of the semester, somewhere around Week 7, there will be an exam. The exam will ask questions on theory. There will be no programming questions in the exam. The exam evaluates the understanding of fundamental concepts through questions that can be either explained in words or solved by hand. This exam will comprise 25% of the total mark."
+exam_txt: "Let us call it midterm, but to be fair it would be a theory-side-of-the-course exam! When we are over with the fundamental topics, somewhere halfway through Step 2 in Week 8, there will be an exam. The exam will ask questions on theory. There will be of course no programming questions in the exam! The exam will only evaluate the understanding of fundamental concepts through questions that can be either explained in words or solved simply by hand. This exam will comprise 25% of the total mark."
 
 project_mark: 30%
-project_desc: "predefined project from the list of suggestions or open-ended"
-project_txt: "The course project procedure is illustrated in a seperate page. In a nutshell, however, the project will be in groups. Each group selects a topic from the predefined project list. Each group will then work on the project through the semester and present its final result at the end in a report and a short presentation. You have the option to choose your topic. In this case, your topic should be confirmed by the instructor and your project work description should be prepared to prepare to that of predefined ones. The course project is the key evaluator and comprises 30% of the course work."
+project_desc: "open-ended"
+project_txt: "Last but not the least, there will be a final project. This is the exciting part of the course, where we could challenge ourselves and test the development of our skills! Each group suggests its own problem that is to be solved by Deep Learning. Each group will then work on the project through the semester and present its final result at the end in a report and a short presentation. Doing this project, we will build self-confidence that we are now experts in Deep Learning. This part will be 30% of the total mark. Note that the final projects plays the role of final evaluation for this course."
 
 
 baseurl: "/dl-utoronto" # the subpath of your site, e.g. /blog/
