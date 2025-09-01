@@ -1,2 +1,2 @@
-# genai-utoronto
-Course Page "Deep Generative Models"
+# dl-utoronto
+Course Page "Applied Deep Learning"
