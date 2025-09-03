@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-09-02T12:40:00
-title: "Lecture 2: ML Component 1 - Data"
+title: "Lecture 3: ML Component 1 - Data"
 tldr: "ML Part II - Data"
 stat: lec
 # for lectures stat: lec
