@@ -42,13 +42,25 @@ The following textbooks are also good resources for __practicing hands-on skills
 This section will be completed gradually through the semester.
 
 
-<!-- ### Chapter 1: 
-#### Tokenization and Embedding
-* [Tokenization](https://web.stanford.edu/~jurafsky/slp3/2.pdf): Chapter 2 of [[JM]](https://web.stanford.edu/~jurafsky/slp3/)
-* [Embedding](https://web.stanford.edu/~jurafsky/slp3/6.pdf): Chapter 6 of [[JM]](https://web.stanford.edu/~jurafsky/slp3/)
+### Chapter 1: Preliminaries
+#### Introduction to DL
+* [Motivation](https://www.bishopbook.com/): Chapter 1 - Section 1.1 of [[BB]](https://www.bishopbook.com/)
 
-* [Original BPE Algorithm](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM): Original BPE Algorithm proposed by Philip Gage in 1994
-* [BPE for Tokenization](https://arxiv.org/abs/1508.07909): Paper _Neural machine translation of rare words with subword units_ by _Rico Sennrich, Barry Haddow, and Alexandra Birch_ presented in ACL 2016 that adapted BPE for NLP -->
+#### ML Components
+* [Review on Linear Algebra](https://www.deeplearningbook.org/): Chapter 2 of [[GYC]](https://www.deeplearningbook.org/)
+* [ML Components](https://www.bishopbook.com/): Chapter 1 - Sections 1.2.1 to 1.2.4 of [[BB]](https://www.bishopbook.com/)
+* [ML Basics](https://www.deeplearningbook.org/): Chapter 5 of [[GYC]](https://www.deeplearningbook.org/)
+
+#### Review on Probability Theory
+* [Probability Theory](https://www.bishopbook.com/): Chapter 2 of [[BB]](https://www.bishopbook.com/)
+* [Probability Review](https://www.deeplearningbook.org/): Chapter 3 of [[GYC]](https://www.deeplearningbook.org/)
+
+
+#### Classification Problem
+* [Binary Classification](https://www.bishopbook.com/): Chapter 5 - Sections 5.1 and 5.2 of [[BB]](https://www.bishopbook.com/)
+* [McCulloch-Pitts Model](https://link.springer.com/article/10.1007/BF02478259): Paper _A logical calculus of the ideas immanent in nervous activity_ published in the _Bulletin of Mathematical Biophysics_ by _Warren McCulloch and Walter Pitts_ in 1943, proposing a computational model for neuron. This paper is treated as the pioneer study leading to the idea of _artificial neuron_
+
+
 
 
 
