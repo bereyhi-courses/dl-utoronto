@@ -60,8 +60,15 @@ This section will be completed gradually through the semester.
 * [Binary Classification](https://www.bishopbook.com/): Chapter 5 - Sections 5.1 and 5.2 of [[BB]](https://www.bishopbook.com/)
 * [McCulloch-Pitts Model](https://link.springer.com/article/10.1007/BF02478259): Paper _A logical calculus of the ideas immanent in nervous activity_ published in the _Bulletin of Mathematical Biophysics_ by _Warren McCulloch and Walter Pitts_ in 1943, proposing a computational model for neuron. This paper is treated as the pioneer study leading to the idea of _artificial neuron_
 
+#### Training via Risk Minimization
+* [Overview on Risk Minimization](https://ieeexplore.ieee.org/abstract/document/788640): Paper _An overview of statistical learning theory_ published as an overview of his life-going developments in ML in the _IEEE Transactions on Neural Networks_ by _Vladimir N. Vapnik_ in 1999
 
+#### Perceptron Algorithm 
+* [Perceptron Simulation Experiments](https://ieeexplore.ieee.org/document/4066017): Paper _Perceptron Simulation Experiments_ presented by _Frank Rosenblatt_ in Proceedings of IRE in 1960
+* [Perceptron](https://link.springer.com/book/10.1007/978-3-319-94463-0): Chapter 1 - Section 1.2.1 of [[Ag]](https://link.springer.com/book/10.1007/978-3-319-94463-0)
 
+#### Universal Approximation Theorem
+* [Universal Approximation](https://link.springer.com/article/10.1007/BF02551274): Paper _Approximation by superpositions of a sigmoidal function_ published in _Mathematics of Control, Signals and Systems_ by _George V. Cybenko_ in 1989
 
 
 
