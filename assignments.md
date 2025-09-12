@@ -12,12 +12,12 @@ permalink: /assignments/
 
 As mentioned in the main page, the course will consists of 3 assignment sets. Each assignment includes Written Questions that are to be solved (or briefly answered), and Programming Tasks which are to be implemented in Python.
 
-<!-- ## Assignment Releases
+## Assignment Releases
 ### Assignment 1: Language Modeling
-- [Assignment 1]({{site.baseurl}}/assignments/01_assignment1) has been posted on _May 20, 2025_ 
-- Deadline is on __June 5, 2025__ at __11:59 PM EST__
+- [Assignment 1]({{site.baseurl}}/assignments/01_assignment1) has been posted on _September 12, 2025_ 
+- Deadline is on __September 26, 2025__ at __11:59 PM EST__
 - Up to 2 days delay with __10% deduction__ per day
-
+<!-- 
 ### Assignment 2: Explicit Methods for Generation
 - [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _June 16, 2025_ 
 - Deadline is on __July 7, 2025__ at __11:59 PM EST__
