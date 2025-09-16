@@ -70,7 +70,10 @@ This section will be completed gradually through the semester.
 #### Universal Approximation Theorem
 * [Universal Approximation](https://link.springer.com/article/10.1007/BF02551274): Paper _Approximation by superpositions of a sigmoidal function_ published in _Mathematics of Control, Signals and Systems_ by _George V. Cybenko_ in 1989
 
+#### Deep NNs
+* [DNNs](https://www.bishopbook.com/): Chapter 6 - Sections 6.2 and 6.3 of [[BB]](https://www.bishopbook.com/)
 
-
-
+#### Optimization via Gradient Descent
+* [Gradient-based Optimization](https://www.deeplearningbook.org/): Chapter 4 - Sections 4.3 and 4.4 of [[GYC]](https://www.deeplearningbook.org/)
+* [Gradient Descent](https://www.bishopbook.com/): Chapter 7 - Sections 7.1 and 7.2 of [[BB]](https://www.bishopbook.com/)
 
