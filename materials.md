@@ -16,6 +16,13 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Deep Neural Networks
 * [Section 5]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec5.pdf): Function Optimization
 
+### Chapter 2: Feedforward NNs
+* [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Forward Pass in MLPs
+* [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Computing Gradient via _Backpropagation_ on Computation Graph
+* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Multiclass Classification
+* [Section 4]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec4.pdf): Mini-batch Training and SGD Algorithm
+
+
 
 
 <!-- ## Tutorial Notebooks -->
