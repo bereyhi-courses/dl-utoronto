@@ -82,5 +82,21 @@ This section will be completed gradually through the semester.
 
 #### Optimization via Gradient Descent
 * [Gradient-based Optimization](https://www.deeplearningbook.org/): Chapter 4 - Sections 4.3 and 4.4 of [[GYC]](https://www.deeplearningbook.org/)
-* [Gradient Descent](https://www.bishopbook.com/): Chapter 7 - Sections 7.1 and 7.2 of [[BB]](https://www.bishopbook.com/)
+* [Gradient Descent](https://www.bishopbook.com/): Chapter 7 - Sections 7.1 to 7.2 of [[BB]](https://www.bishopbook.com/)
 
+
+### Chapter 2: Fully-connected FNNs
+#### Forward Propagation
+* [Deep FNNs](https://www.deeplearningbook.org/): Chapter 6 - Sections 6.3 and 6.4 of [[GYC]](https://www.deeplearningbook.org/)
+
+#### Backpropagation
+* [Backpropagation](https://www.deeplearningbook.org/): Chapter 6 - Section 6.5 of [[GYC]](https://www.deeplearningbook.org/)
+* [Backpropagation](https://www.bishopbook.com/): Chapter 8 of [[BB]](https://www.bishopbook.com/)
+[Backpropagation of Error](https://www.nature.com/articles/323533a0) Paper _Learning representations by back-propagating errors_ published in _Nature_ by _D. Rumelhart, G. Hinton and R. Williams_ in 1986 advocating the idea of systematic gradient computation of a computation graph
+
+#### Multi-class Classification
+* [Multi-class Models](https://link.springer.com/book/10.1007/978-3-319-94463-0): Chapter 2 - Section 2.3 of [[Ag]](https://link.springer.com/book/10.1007/978-3-319-94463-0)
+
+#### Full-batch, sample-level and mini-batch SGD
+* [SGD](https://www.deeplearningbook.org/): Chapter 5 - Section 5.9 of [[GYC]](https://www.deeplearningbook.org/)
+* [SGD](https://www.bishopbook.com/): Chapter 7 - Section 7.2 of [[BB]](https://www.bishopbook.com/)
