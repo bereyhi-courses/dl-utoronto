@@ -45,16 +45,12 @@ The course project will be seriously started in the second half of the course. I
 </div>
 </p>
 
-## Suggested Project Topics
+## Project Topics
+* The project is in general _open-ended_ and its topic can be anything related to _Deep Learning_
+* A list of suggested topics can be found on this [Google Doc](https://docs.google.com/document/d/1k1QcgvZF4-MzfeG-6M5ZI522CxnKEqf7KhlF9HbOM4c/edit?usp=sharing)
+* If you choose from the list of topics, please add a comment to that topic indicating that you have taken this topic. This is only to follow the distribution of the topics
+* No need to select from the list. You are welcome and indeed encouraged to develop your own proposal. 
 
-### TBA
-
-<!-- ### Category A: _Multimodal Generative Models_ -->
-
-<!-- #### __Topic A-1: Text-to-Image Generation using Pretrained LMs and Generative Architectures__
-- [See Complete Project Description]({{site.baseurl}}/assets/Project_Materials/CategoryA/TopicA_1.pdf) 
-- __Objective:__ Design and implement a _multimodal_ generative model that takes text descriptions as input and generates corresponding images. For language processing, a pretrained LM, e.g., BERT or RoBERTa, is used. The designed multimodal model should integrate this pretrained LM into a generative architecture such as a VAE, GAN, or diffusion model.
-- __Supervisor:__ [Amir Hossein Mobasheri](mailto:amir.mobasheri@mail.utoronto.ca) -->
 
 
 ## Templates for Proposal, Report and Presentation
