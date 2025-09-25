@@ -95,6 +95,7 @@ This section will be completed gradually through the semester.
 * [Backpropagation of Error](https://www.nature.com/articles/323533a0) Paper _Learning representations by back-propagating errors_ published in _Nature_ by _D. Rumelhart, G. Hinton and R. Williams_ in 1986 advocating the idea of systematic gradient computation of a computation graph
 
 #### Multi-class Classification
+* [Binary Classification](https://www.bishopbook.com/): Chapter 6 Section 6.6 of [[BB]](https://www.bishopbook.com/)
 * [Multi-class Models](https://link.springer.com/book/10.1007/978-3-319-94463-0): Chapter 2 - Section 2.3 of [[Ag]](https://link.springer.com/book/10.1007/978-3-319-94463-0)
 
 #### Full-batch, sample-level and mini-batch SGD
