@@ -14,3 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Backpropagation](https://www.bishopbook.com/): Chapter 8 of [[BB]](https://www.bishopbook.com/)
+* [Backpropagation of Error](https://www.nature.com/articles/323533a0) Paper _Learning representations by back-propagating errors_ published in _Nature_ by _D. Rumelhart, G. Hinton and R. Williams_ in 1986 advocating the idea of systematic gradient computation of a computation graph
