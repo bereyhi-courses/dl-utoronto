@@ -25,9 +25,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 
 
-<!-- ## Tutorial Notebooks -->
-<!-- The tutorial notebooks can be accessed below.
-* [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_1.ipynb): PyTorch Overview, Batch Training, Embedding, and Tokenization, by __Amir Hossein Mobasheri__ -->
+## Tutorial Notebooks
+The tutorial notebooks can be accessed below.
+* [Tutorial 1](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial1-Python-and-ML-Fundamentals.ipynb): Intro to Python, Basic ML in Python, by __Saleh Tabatabaei__
+* [Tutorial 2](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial2-PyTorch.ipynb): Intro to PyTorch, Auto-grad, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/a5ad772e800fc000c61aaea3a2f3a510)
 
 
 ## Book
