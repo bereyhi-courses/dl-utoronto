@@ -22,7 +22,11 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Multiclass Classification
 * [Section 4]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec4.pdf): Mini-batch Training and SGD Algorithm
 
-
+### Chapter 3: Advances - _Part I_
+* [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): More on Optimizers
+* [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Overfitting, Regularization and Dropout
+* [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Data Distribution and Preporcessing
+* [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Standardization and Batch Normalization
 
 
 ## Tutorial Notebooks
