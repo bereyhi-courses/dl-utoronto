@@ -33,6 +33,8 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 The tutorial notebooks can be accessed below.
 * [Tutorial 1](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial1-Python-and-ML-Fundamentals.ipynb): Intro to Python, Basic ML in Python, by __Saleh Tabatabaei__
 * [Tutorial 2](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial2-PyTorch.ipynb): Intro to PyTorch, Auto-grad, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/a5ad772e800fc000c61aaea3a2f3a510)
+* [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb):Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6)
+
 
 
 ## Book
@@ -106,3 +108,25 @@ This section will be completed gradually through the semester.
 #### Full-batch, sample-level and mini-batch SGD
 * [SGD](https://www.deeplearningbook.org/): Chapter 5 - Section 5.9 of [[GYC]](https://www.deeplearningbook.org/)
 * [SGD](https://www.bishopbook.com/): Chapter 7 - Section 7.2 of [[BB]](https://www.bishopbook.com/)
+
+#### Generalization
+* [Generalization](https://arxiv.org/abs/2102.05242): Chapter 6 of the Book _Patterns, predictions, and actions: A story about machine learning_ by _Moritz Hardt and B. Recht_ published in 2021
+
+### Chapter 3: Optimizers, Regularization and Data
+#### More on Optimizers
+* [Learning Rate Scheduling](https://ieeexplore.ieee.org/abstract/document/7926641) Paper _Cyclical Learning Rates for Training Neural Networks_ published in _Winter Conference on Applications of Computer Vision (WACV)_ by _Leslie N. Smith_ in 2017 discussing learning rate scheduling
+* [Rprop]() Paper _A direct adaptive method for faster backpropagation learning: the RPROP algorithm_ published in _IEEE International Conference on Neural Networks_ by _M. Riedmiller and H. Braun_ in 1993 proposing Rprop algorithm
+* [RMSprop](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) Lecture note by _GEoffrey Hinton_ proposing RMSprop
+* [RMSprop Analysis](https://arxiv.org/abs/1502.04390v1) Paper _RMSProp and equilibrated adaptive learning rates for non-convex optimization_ by _Y. Dauphin et al._ published in 2015 talking about RMSprop and citing  Honton's lecture notes
+* [Adam](https://arxiv.org/abs/1412.6980) Paper _Adam: A Method for Stochastic Optimization_ published in 2014 by _D. Kingma and J. Ba_ proposing Adam
+* [Notes on Optimizers](https://optmlclass.github.io/notes/optforml_notes.pdf) Lecture notes of the course _Optimization for Machine Learning_ by _Ashok Cutkosky_ in _Boston University_: A good resource for optimizers
+
+#### Overfitting and Regularization
+* [Regularization](https://www.deeplearningbook.org/): Chapter 7 of [[GYC]](https://www.deeplearningbook.org/)
+* [Overfitting and Regularization](https://www.bishopbook.com/): Chapter 9 - Sections 9.1 to 9.3 of [[BB]](https://www.bishopbook.com/)
+* [Dropout 1](https://arxiv.org/abs/1207.0580) Paper _Improving neural networks by preventing co-adaptation of feature detectors_ published in 2012 by _G. Hinton et al._ proposing Dropout
+* [Dropout 2](https://jmlr.org/papers/v15/srivastava14a.html) Paper _Dropout: A Simple Way to Prevent Neural Networks from Overfitting_ published in 2014 by _N. Srivastava et al._ providing some analysis and illustrations on Dropout
+
+#### Data: Data Distribution, Data Cleaning, and Outliers
+* [Data](https://arxiv.org/abs/2102.05242): Chapter 8 of the Book _Patterns, predictions, and actions: A story about machine learning_ by _Moritz Hardt and B. Recht_ published in 2021
+* [Data Processing in Python](https://arxiv.org/abs/2211.04630) Open Book _Minimalist Data Wrangling with Python_ by _Marek Gagolewski_ going through data processing in Python
