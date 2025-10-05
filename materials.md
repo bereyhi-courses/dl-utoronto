@@ -33,7 +33,7 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 The tutorial notebooks can be accessed below.
 * [Tutorial 1](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial1-Python-and-ML-Fundamentals.ipynb): Intro to Python, Basic ML in Python, by __Saleh Tabatabaei__
 * [Tutorial 2](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial2-PyTorch.ipynb): Intro to PyTorch, Auto-grad, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/a5ad772e800fc000c61aaea3a2f3a510)
-* [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb):Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6)
+* [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb): Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6)
 
 
 
