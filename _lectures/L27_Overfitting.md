@@ -10,7 +10,7 @@ videoID: M5MHrkTrbOQ
 hide_from_announcments: false
 ---
 **Lecture Notes:**
-- [Chapter 3 - Section 2]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec1.pdf) 
+- [Chapter 3 - Section 2]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec2.pdf) 
 
 **Further Reads:**
 * [Regularization](https://www.deeplearningbook.org/): Chapter 7 of [[GYC]](https://www.deeplearningbook.org/)
