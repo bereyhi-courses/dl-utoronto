@@ -140,14 +140,14 @@ This section will be completed gradually through the semester.
 * [Data Processing in Python](https://arxiv.org/abs/2211.04630) Open Book _Minimalist Data Wrangling with Python_ by _Marek Gagolewski_ going through data processing in Python
 
 #### Normalization
-[Normalization](https://proceedings.neurips.cc/paper/2020/hash/9b8619251a19057cff70779273e95aa6-Abstract.html) Paper _Is normalization indispensable for training deep neural network?_ published in 2020 by _J. Shao et al._ discussing the meaning and effects of normalization
-[Batch-Norm](https://proceedings.mlr.press/v37/ioffe15.html) Paper _Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift_ published in 2015 by _S. Ioffe and C. Szegedy_ proposing Batch Normalization
-[Batch-Norm Meaning](https://proceedings.neurips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html) Paper _How Does Batch Normalization Help Optimization?_ published in 2018 by _S. Santurkar et al._ discussing why Batch Normalization works: they claim that the main reason is that loss landscape is getting much smoother
+* [Normalization](https://proceedings.neurips.cc/paper/2020/hash/9b8619251a19057cff70779273e95aa6-Abstract.html) Paper _Is normalization indispensable for training deep neural network?_ published in 2020 by _J. Shao et al._ discussing the meaning and effects of normalization
+* [Batch-Norm](https://proceedings.mlr.press/v37/ioffe15.html) Paper _Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift_ published in 2015 by _S. Ioffe and C. Szegedy_ proposing Batch Normalization
+* [Batch-Norm Meaning](https://proceedings.neurips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html) Paper _How Does Batch Normalization Help Optimization?_ published in 2018 by _S. Santurkar et al._ discussing why Batch Normalization works: they claim that the main reason is that loss landscape is getting much smoother
 
 ### Chapter 4: Convolutional NNs
 #### Development of CNNs
-[Hubel and Wiesel Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC1359523/) Paper _Receptive fields, binocular interaction and functional architecture in the cat's visual cortex_ published in 1962 by _D. Hubel and T. Wiesel_ elaborating their finding on visual understanding
-[Neocognitron](https://link.springer.com/article/10.1007/BF00344251) Paper _Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position_ published in 1980 by _K. Fukushima _ proposing the Neocognitron as a computational model for visual learning
-[Backpropagating on LeNet](https://direct.mit.edu/neco/article/1/4/541/5515/Backpropagation-Applied-to-Handwritten-Zip-Code) Paper _Backpropagation Applied to Handwritten Zip Code Recognition_ published in 1989 by _Y. LeCun et al._ developing backpropagation for LeNet
-[LeNet](https://link.springer.com/article/10.1007/BF00344251) Paper _Gradient-Based Learning Applied to Document Recognition_ published in 1998 by _Y. LeCun et al._ discussing LeNet
+* [Hubel and Wiesel Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC1359523/) Paper _Receptive fields, binocular interaction and functional architecture in the cat's visual cortex_ published in 1962 by _D. Hubel and T. Wiesel_ elaborating their finding on visual understanding
+* [Neocognitron](https://link.springer.com/article/10.1007/BF00344251) Paper _Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position_ published in 1980 by _K. Fukushima _ proposing the Neocognitron as a computational model for visual learning
+* [Backpropagating on LeNet](https://direct.mit.edu/neco/article/1/4/541/5515/Backpropagation-Applied-to-Handwritten-Zip-Code) Paper _Backpropagation Applied to Handwritten Zip Code Recognition_ published in 1989 by _Y. LeCun et al._ developing backpropagation for LeNet
+* [LeNet](https://link.springer.com/article/10.1007/BF00344251) Paper _Gradient-Based Learning Applied to Document Recognition_ published in 1998 by _Y. LeCun et al._ discussing LeNet
 
