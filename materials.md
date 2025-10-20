@@ -41,6 +41,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 2](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial2-PyTorch.ipynb): Intro to PyTorch, Auto-grad, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/a5ad772e800fc000c61aaea3a2f3a510)
 * [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb): Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6)
 * [Tutorial 4](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/tree/main/Tutorial_Notebooks/Tutorial4-CNN%2C%20AlexNet%20in%20PyTorch): CNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/5814f9ece8b5d1687112f32649621720)
+* [Tutorial 5](https://q.utoronto.ca/courses/396459/modules): Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/d095763335f9139a5e7d99501e07cfd3)
 
 
 
@@ -153,3 +154,17 @@ This section will be completed gradually through the semester.
 * [Backpropagating on LeNet](https://direct.mit.edu/neco/article/1/4/541/5515/Backpropagation-Applied-to-Handwritten-Zip-Code) Paper _Backpropagation Applied to Handwritten Zip Code Recognition_ published in 1989 by _Y. LeCun et al._ developing backpropagation for LeNet
 * [LeNet](https://link.springer.com/article/10.1007/BF00344251) Paper _Gradient-Based Learning Applied to Document Recognition_ published in 1998 by _Y. LeCun et al._ discussing LeNet
 
+#### Components of CNN
+* [Convolution](https://www.deeplearningbook.org/): Chapter 9 - Sections 9.1 and 9.2 of [[GYC]](https://www.deeplearningbook.org/)
+* [Convolution](https://www.bishopbook.com/): Chapter 10 - Sections 10.2.1 and 10.2.2 of [[BB]](https://www.bishopbook.com/)
+* [Multi-channel Convolution](https://www.bishopbook.com/): Chapter 10 - Sections 10.2.3 to 10.2.5 of [[BB]](https://www.bishopbook.com/)
+* [Pooling](https://www.deeplearningbook.org/): Chapter 9 - Sections 9.3 of [[GYC]](https://www.deeplearningbook.org/)
+* [Pooling](https://www.bishopbook.com/): Chapter 10 - Section 10.2.6 of [[BB]](https://www.bishopbook.com/)
+* [Flattening](https://www.bishopbook.com/): Chapter 10 - Sections 10.2.7 and 10.2.8 of [[BB]](https://www.bishopbook.com/)
+
+#### Deep CNNs
+* [Convolution](https://www.deeplearningbook.org/): Chapter 9 - Sections 9.4 and 9.6 of [[GYC]](https://www.deeplearningbook.org/)
+
+#### Backpropagation on CNN
+* [LeCun's Paper](https://ieeexplore.ieee.org/document/726791) Paper _Gradient-based learning applied to document recognition_ published in 2002 by _Y. LeCun et al._ summarizing the learning process in CNN
+* [Efficient Backpropagation on CNN](https://inria.hal.science/inria-00112631/PDF/p1038112283956.pdf) Paper _High Performance Convolutional Neural Networks for Document Processing_ published in 2006 by _K. Chellapilla et al._  discussing efficient backpropagation on CNNs
