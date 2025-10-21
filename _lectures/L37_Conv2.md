@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-10-17T12:15:00
-title: "Lecture 36: Padding and Multichannel Convolution"
+title: "Lecture 37: Padding and Multichannel Convolution"
 tldr: "Convolution II"
 stat: lec
 # for lectures stat: lec
