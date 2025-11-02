@@ -164,6 +164,7 @@ This section will be completed gradually through the semester.
 
 #### Deep CNNs
 * [Convolution](https://www.deeplearningbook.org/): Chapter 9 - Sections 9.4 and 9.6 of [[GYC]](https://www.deeplearningbook.org/)
+* [VGG](https://arxiv.org/abs/1409.1556) Paper _Very Deep Convolutional Networks for Large-Scale Image Recognition_ published in 2014 by _K. Simonyan and A. Zisserman_ proposing VGG Architectures
 
 #### Backpropagation on CNN
 * [LeCun's Paper](https://ieeexplore.ieee.org/document/726791) Paper _Gradient-based learning applied to document recognition_ published in 2002 by _Y. LeCun et al._ summarizing the learning process in CNN
