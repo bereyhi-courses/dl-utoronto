@@ -6,7 +6,7 @@ tldr: "Convolution III"
 stat: lec
 # for lectures stat: lec
 description: We learn about Pooling and its functionality in CNNs. We further learn how we can use basic flattening to perform final processing on the extracted features by the CNN layers. 
-videoID:  
+videoID: L88Q1vepbgM 
 hide_from_announcments: false
 ---
 **Lecture Notes:**
