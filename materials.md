@@ -46,6 +46,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb): Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6)
 * [Tutorial 4](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/tree/main/Tutorial_Notebooks/Tutorial4-CNN%2C%20AlexNet%20in%20PyTorch): CNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/5814f9ece8b5d1687112f32649621720)
 * [Tutorial 5](https://q.utoronto.ca/courses/396459/modules): Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/d095763335f9139a5e7d99501e07cfd3)
+* [Tutorial 6](https://q.utoronto.ca/courses/396459/modules): ResNet by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/515c9ee8c3a9d1f64a51377c68009a0d)
 
 
 
@@ -172,4 +173,10 @@ This section will be completed gradually through the semester.
 
 #### Backpropagation on CNN
 * [LeCun's Paper](https://ieeexplore.ieee.org/document/726791) Paper _Gradient-based learning applied to document recognition_ published in 2002 by _Y. LeCun et al._ summarizing the learning process in CNN
-* [Efficient Backpropagation on CNN](https://inria.hal.science/inria-00112631/PDF/p1038112283956.pdf) Paper _High Performance Convolutional Neural Networks for Document Processing_ published in 2006 by _K. Chellapilla et al._  discussing efficient backpropagation on CNNs
+* [Efficient Backpropagation on CNN](https://inria.hal.science/inria-00112631/PDF/p1038112283956.pdf) Paper _High Performance Convolutional Neural Networks for Document Processing_ published in 2006 by _K. Chellapilla et al._  discussing efficient backpropagation on CNNs.
+
+### Chapter 5: Residual Learning
+* [ResNet](https://arxiv.org/abs/1512.03385) Paper _Deep Residual Learning for Image Recognition_ published in 2015 by _K. He et al._ proposing ResNet
+* [ResNet-1001](https://arxiv.org/abs/1603.05027) Paper _Identity Mappings in Deep Residual Networks_ published in 2016 by _K. He et al._ demonstrating how deep ResNet can go
+* [U-Net](https://arxiv.org/abs/1505.04597) Paper _U-Net: Convolutional Networks for Biomedical Image Segmentation_ published in 2015 by _O. Ronneberger et al._ proposing U-Net
+* [DenseNet](https://arxiv.org/abs/1608.06993) Paper _Densely Connected Convolutional Networks_ published in 2017 by _H. Huang et al._ proposing DenseNet
