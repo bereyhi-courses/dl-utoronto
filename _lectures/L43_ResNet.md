@@ -6,7 +6,7 @@ tldr: "Training CNNs"
 stat: lec
 # for lectures stat: lec
 description: We learn residual learning, an approach to handle vanishing gradient behavior. We then study ResNet, as a well known deep networks that uses residual network. 
-videoID:  
+videoID: kwL7Me28EpI 
 hide_from_announcments: false
 ---
 **Lecture Notes:**

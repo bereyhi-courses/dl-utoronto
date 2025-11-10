@@ -6,7 +6,7 @@ tldr: "Training CNNs"
 stat: lec
 # for lectures stat: lec
 description: We learn about the vanishing and exploding gradient effect in deep neural networks. We see the source of this behavior and understand how we can address them. This motivates us to learn residual learning.
-videoID:  
+videoID: yV0WaTkeWJI
 hide_from_announcments: false
 ---
 **Lecture Notes:**
