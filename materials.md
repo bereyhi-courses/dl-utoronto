@@ -41,6 +41,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 6: Sequence Processing
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Sequence Data 
 * [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): RNNs
+* [Section 3]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec3.pdf): Training RNNs 
+* [Section 4]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec4.pdf): Gating
+* [Section 5]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec5.pdf): Bidirectional Sequence Processing 
+* [Section 6]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec6.pdf): CTC Algorithm
 
 
 ## Tutorial Notebooks
