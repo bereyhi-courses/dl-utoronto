@@ -55,6 +55,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 4](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/tree/main/Tutorial_Notebooks/Tutorial4-CNN%2C%20AlexNet%20in%20PyTorch): CNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/5814f9ece8b5d1687112f32649621720)
 * [Tutorial 5](https://q.utoronto.ca/courses/396459/modules): Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/d095763335f9139a5e7d99501e07cfd3)
 * [Tutorial 6](https://q.utoronto.ca/courses/396459/modules): ResNet by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/515c9ee8c3a9d1f64a51377c68009a0d)
+* [Tutorial 7](https://q.utoronto.ca/courses/396459/modules): RNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/315c11f3172eb92eb08c222645bad5f3)
 
 
 
@@ -188,3 +189,23 @@ This section will be completed gradually through the semester.
 * [ResNet-1001](https://arxiv.org/abs/1603.05027) Paper _Identity Mappings in Deep Residual Networks_ published in 2016 by _K. He et al._ demonstrating how deep ResNet can go
 * [U-Net](https://arxiv.org/abs/1505.04597) Paper _U-Net: Convolutional Networks for Biomedical Image Segmentation_ published in 2015 by _O. Ronneberger et al._ proposing U-Net
 * [DenseNet](https://arxiv.org/abs/1608.06993) Paper _Densely Connected Convolutional Networks_ published in 2017 by _H. Huang et al._ proposing DenseNet
+
+### Chapter 6: Sequence Processing via NNs
+
+#### Basics of Sequence Processing
+* [Jordan Network](https://escholarship.org/uc/item/1fg2j76h) Paper _Attractor dynamics and parallelism in a connectionist sequential machine_ published in 1986 by _M. Jordan_ proposing his RNN
+* [Elman Network](https://doi.org/10.1207/s15516709cog1402_1) Paper _Finding structure in time_ published in 1990 by _J. Elman_ proposing a revision to Jordan Network
+* [Seq Models](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) Article _The Unreasonable Effectiveness of Recurrent Neural Networks_ written in May 2015 by _A. Karpathy_ discussing different types of sequence problems
+
+#### Backpropagation Through Time
+* [BPTT](https://ieeexplore.ieee.org/abstract/document/58337) Paper _Backpropagation through time: What it does and how to do it_ published in 2002 by _P. Werbos_ explaining BPTT
+* [Vanishing Gradient with BPTT](https://proceedings.mlr.press/v28/pascanu13.html) Paper _On the difficulty of training recurrent neural networks_ published in 2013 by _R. Pascanu et al._ discussing challenges in training with BPTT
+* [Truncated BPTT](https://direct.mit.edu/neco/article/2/4/490/5561/An-Efficient-Gradient-Based-Algorithm-for-On-Line) Paper _An efficient gradient-based algorithm for on-line training of recurrent network trajectories_ published in 1990 by _R. Williams and J. Peng_ explaining truncated BPTT
+
+#### Gating
+* [Gating Principle](https://link.springer.com/chapter/10.1007/978-3-642-24797-2_4) Chapter _Long Short-Term Memory_ published in 2012 in book _Supervised Sequence Labelling with Recurrent Neural Networks_ by _A. Graves_ explaining Gating idea
+* [LSTM](https://ieeexplore.ieee.org/abstract/document/6795963) Paper _Long short-term memory_ published in 1997 by _S. Hochreiter and J. Schmidhuber_ proposing LSTM
+* [GRU](https://arxiv.org/abs/1409.1259) Paper _On the Properties of Neural Machine Translation: Encoder-Decoder Approaches_ published in 2014 by _K. Cho et al._ proposing GRU
+
+#### CTC Algorithm
+* [CTC](https://link.springer.com/chapter/10.1007/978-3-642-24797-2_4) Paper _Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks_ published in 2006 by _A. Graves et al._ proposing CTC Algorithm
