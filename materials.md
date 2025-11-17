@@ -208,4 +208,4 @@ This section will be completed gradually through the semester.
 * [GRU](https://arxiv.org/abs/1409.1259) Paper _On the Properties of Neural Machine Translation: Encoder-Decoder Approaches_ published in 2014 by _K. Cho et al._ proposing GRU
 
 #### CTC Algorithm
-* [CTC](https://link.springer.com/chapter/10.1007/978-3-642-24797-2_4) Paper _Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks_ published in 2006 by _A. Graves et al._ proposing CTC Algorithm
+* [CTC](https://dl.acm.org/doi/10.1145/1143844.1143891) Paper _Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks_ published in 2006 by _A. Graves et al._ proposing CTC Algorithm
