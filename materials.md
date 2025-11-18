@@ -46,6 +46,12 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 5]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec5.pdf): Bidirectional Sequence Processing 
 * [Section 6]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec6.pdf): CTC Algorithm
 
+### Chapter 7: Sequence to Sequence Models
+* [Section 1]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec1.pdf): Seq2Seq
+* [Section 2]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec2.pdf): Encoder Decoder
+* [Section 3]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec3.pdf): Attention 
+* [Section 4]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec4.pdf): Self-Attention and Transformer
+
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
