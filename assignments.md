@@ -23,6 +23,16 @@ As mentioned in the main page, the course will consists of 3 assignment sets. Ea
 - Deadline is on __October 15, 2025__ at __11:59 PM EST__
 - Up to 2 days delay with __10% deduction__ per day
 
+### Assignment 3: CNNs and ResNets
+- [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _October 20, 2025_ 
+- Deadline is on __November 12, 2025__ at __11:59 PM EST__
+- Up to 2 days delay with __10% deduction__ per day
+
+### Assignment 4: Sequence Models
+- [Assignment 4]({{site.baseurl}}/assignments/05_assignment4) has been posted on _November 15, 2025_ 
+- Deadline is on __November 29, 2025__ at __11:59 PM EST__
+- Up to 2 days delay with __10% deduction__ per day
+
 
 ## How to Submit
 We use [Crowdmark](https://crowdmark.com/), which has an easier interface and makes the chance of formatting mistakes less. When submitting, please make sure to follow the instructions below. Note that these instructions are __very important__ for correction and investigation of your submissions. Deviation from these instructions could lead to up to __10% deduction (per item).__

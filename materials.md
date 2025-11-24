@@ -62,6 +62,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 5](https://q.utoronto.ca/courses/396459/modules): Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/d095763335f9139a5e7d99501e07cfd3)
 * [Tutorial 6](https://q.utoronto.ca/courses/396459/modules): ResNet by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/515c9ee8c3a9d1f64a51377c68009a0d)
 * [Tutorial 7](https://q.utoronto.ca/courses/396459/modules): RNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/315c11f3172eb92eb08c222645bad5f3)
+* [Tutorial 8](https://q.utoronto.ca/courses/396459/modules): Sequence Models by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/f0d28f4da270c61f7901555434ec0a42)
 
 
 
@@ -215,3 +216,22 @@ This section will be completed gradually through the semester.
 
 #### CTC Algorithm
 * [CTC](https://dl.acm.org/doi/10.1145/1143844.1143891) Paper _Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks_ published in 2006 by _A. Graves et al._ proposing CTC Algorithm
+
+
+### Chapter 7: Seq2Seq Models
+#### Language Models
+* [Basic LM](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) Paper _A Neural Probabilistic Language Model_ published in 2003 by _Y. Bengio_ developing frist really-functioning LM
+* [RNN-LM](https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.pdf) Paper _Recurrent neural network based language model_ published in INTERSPEECH 2010 by _T. T Mikolov et al._ proposing a practical LM using RNNs
+
+#### Seq2Seq Models
+* [Seq2Seq](https://proceedings.neurips.cc/paper_files/paper/2014/hash/5a18e133cbf9f257297f410bb7eca942-Abstract.html) Paper _Sequence to Sequence Learning with Neural Networks_ published in 2014 by _I. Sutskever et al._ proposing end-to-end encoding and decoding
+
+#### NMT and Attention Mechanism
+* [Attention](https://arxiv.org/abs/1409.0473) Paper _Neural Machine Translation by Jointly Learning to Align and Translate_ published in 2015 by _D. Bahdanau et al._ proposing Attention mechanism
+* [Attention NMT](hhttps://arxiv.org/abs/1508.04025) Paper _Effective Approaches to Attention-based Neural Machine Translation_ published in 2015 by _M. Loung et al._ proposing Attention-based NMT
+
+#### Self-Attention and Transformers
+* [Transformer](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) Paper _Attention is All You Need_ published in 2017 by _A. Vaswani et al._ proposing Transformer (cited 205K times to this date)
+
+
+<!-- ### Chapter 8: Autoencoding and Data Generation -->
