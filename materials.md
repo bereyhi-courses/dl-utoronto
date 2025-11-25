@@ -52,6 +52,12 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 3]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec3.pdf): Attention 
 * [Section 4]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec4.pdf): Self-Attention and Transformer
 
+### Chapter 8: Representation and Generation
+* [Section 1]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec1.pdf): Representation Problem
+* [Section 2]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec2.pdf): Autoencoding
+* [Section 3]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec3.pdf): Data Generation
+
+
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
