@@ -69,6 +69,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 6](https://q.utoronto.ca/courses/396459/modules): ResNet by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/515c9ee8c3a9d1f64a51377c68009a0d)
 * [Tutorial 7](https://q.utoronto.ca/courses/396459/modules): RNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/315c11f3172eb92eb08c222645bad5f3)
 * [Tutorial 8](https://q.utoronto.ca/courses/396459/modules): Sequence Models by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/f0d28f4da270c61f7901555434ec0a42)
+* [Tutorial 9](https://q.utoronto.ca/courses/396459/modules): Autoencoders by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/87336a08b49ffa94c6b5ad6a7863b033)
 
 
 
@@ -234,10 +235,26 @@ This section will be completed gradually through the semester.
 
 #### NMT and Attention Mechanism
 * [Attention](https://arxiv.org/abs/1409.0473) Paper _Neural Machine Translation by Jointly Learning to Align and Translate_ published in 2015 by _D. Bahdanau et al._ proposing Attention mechanism
-* [Attention NMT](hhttps://arxiv.org/abs/1508.04025) Paper _Effective Approaches to Attention-based Neural Machine Translation_ published in 2015 by _M. Loung et al._ proposing Attention-based NMT
+* [Attention NMT](https://arxiv.org/abs/1508.04025) Paper _Effective Approaches to Attention-based Neural Machine Translation_ published in 2015 by _M. Loung et al._ proposing Attention-based NMT
 
 #### Self-Attention and Transformers
 * [Transformer](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) Paper _Attention is All You Need_ published in 2017 by _A. Vaswani et al._ proposing Transformer (cited 205K times to this date)
+* [Transformers](https://www.bishopbook.com/): Chapter 12 of [[BB]](https://www.bishopbook.com/)
 
 
-<!-- ### Chapter 8: Autoencoding and Data Generation -->
+### Chapter 8: Autoencoding and Data Generation
+
+#### Nonlinear PCA
+* [Nonlinear PCA](https://www.bishopbook.com/): Chapter 16 [[BB]](https://www.bishopbook.com/)
+* [Representation](https://ieeexplore.ieee.org/abstract/document/6790375) Paper _Nonlinear component analysis as a kernel eigenvalue problem_ published in 1998 by _B. Schölkopf et al._ 
+* [Nonlinear PCA via NNs](https://web.archive.org/web/20111003131045id_/http://pca.narod.ru/2MainGorbanKeglWunschZin.pdf) Paper _Nonlinear Principal Component Analysis: Neural Network Models and Applications_ published in 2008 by _M. Scholz et al._ 
+
+
+#### AEs
+* [Deterministic AEs](https://www.bishopbook.com/): Chapter 19 - Section 19.1 of [[BB]](https://www.bishopbook.com/)
+* [Vanilla AEs](https://dbirman.github.io/learn/hierarchy/pdfs/Hinton2006.pdf) Paper _Reducing the Dimensionality of Data with Neural Networks_ published in 2006 by _G. Hinton and R. Salakhutdinov_ 
+* [Denoising AEs](https://dl.acm.org/doi/pdf/10.1145/1390156.1390294) Paper _Extracting and Composing Robust Features with Denoising Autoencoders_ published in 2008 by _P. Vincent et al._ 
+
+#### Variational AEs
+* [VAEs](https://www.bishopbook.com/): Chapter 19 - Section 19.2 of [[BB]](https://www.bishopbook.com/)
+* [Variational AEs](https://indico.math.cnrs.fr/event/11377/attachments/4589/6915/18012024_Kingma-and-Welling-2022%20Auto-Encoding%20Variational%20Bayes.pdf) Paper _Auto-Encoding Variational Bayes_ published in 2008 by _D. Kingma and P. Welling_ proposing VAE idea
