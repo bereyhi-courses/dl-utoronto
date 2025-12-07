@@ -15,7 +15,7 @@ The seminars __start at 4:00 PM__ in the __Claude T. Bissell Building - Room 205
 
 ### Final Submission
 
-The final __submission deadline for the report and code__ is __December 10 at 11:59 PM.__ While you may continue to edit your code on your Git repository, we will only consider _commits made before the deadline as part of the final submission._
+The final __submission deadline for the report and code__ is __December 11 at 11:59 PM.__ While you may continue to edit your code on your Git repository, we will only consider _commits made before the deadline as part of the final submission._
 
 ## Midterm Exam
 
