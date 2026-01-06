@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-17T12:15:00
 title: "Lecture 37: Padding and Multichannel Convolution"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 4 - Section 2]({{ site.baseurl }}/assets/Notes/CH4/CH4_Sec2.pdf) 
 
 **Further Reads:**
-* [Multi-channel Convolution](https://www.bishopbook.com/): Chapter 10 - Sections 10.2.3 to 10.2.5 of [[BB]](https://www.bishopbook.com/)
+* [Multi-channel Convolution](https://www.bishopbook.com/): Chapter 10 - Sections 10.2.3 to 10.2.5 of [[BB]](https://www.bishopbook.com/) -->

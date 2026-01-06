@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-12T12:00:00
 title: "Lecture 12: Iterative Optimization by Gradient Descent"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Gradient-based Optimization](https://www.deeplearningbook.org/): Chapter 4 - Sections 4.3 and 4.4 of [[GYC]](https://www.deeplearningbook.org/)
-* [Gradient Descent](https://www.bishopbook.com/): Chapter 7 - Sections 7.1 and 7.2 of [[BB]](https://www.bishopbook.com/)
+* [Gradient Descent](https://www.bishopbook.com/): Chapter 7 - Sections 7.1 and 7.2 of [[BB]](https://www.bishopbook.com/) -->

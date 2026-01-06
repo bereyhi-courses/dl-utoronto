@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-30T12:15:00
 title: "Lecture 24: Linear and Sub-linear Convergence Speed"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 1]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec1.pdf) 
 
 **Further Reads:**
-* [Notes on Optimizers](https://optmlclass.github.io/notes/optforml_notes.pdf) Lecture notes of the course _Optimization for Machine Learning_ by _Ashok Cutkosky_ in _Boston University_: A good resource for optimizers
+* [Notes on Optimizers](https://optmlclass.github.io/notes/optforml_notes.pdf) Lecture notes of the course _Optimization for Machine Learning_ by _Ashok Cutkosky_ in _Boston University_: A good resource for optimizers -->

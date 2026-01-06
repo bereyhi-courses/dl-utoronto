@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-09T11:40:00
 title: "Lecture 9: Training Perceptron Machine"
@@ -16,4 +16,4 @@ hide_from_announcments: false
 * [Perceptron Simulation Experiments](https://ieeexplore.ieee.org/document/4066017): Paper _Perceptron Simulation Experiments_ presented by _Frank Rosenblatt_ in Proceedings of IRE in 1960
 * [Perceptron](https://link.springer.com/book/10.1007/978-3-319-94463-0): Chapter 1 - Section 1.2.1 of [[Ag]](https://link.springer.com/book/10.1007/978-3-319-94463-0)
 
-
+ -->

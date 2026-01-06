@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-11T11:15:00
 title: "Lecture 44: Processing Sequence Data"
@@ -15,4 +15,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [Jordan Network](https://escholarship.org/uc/item/1fg2j76h) Paper _Attractor dynamics and parallelism in a connectionist sequential machine_ published in 1986 by _M. Jordan_ proposing his RNN
 * [Elman Network](https://doi.org/10.1207/s15516709cog1402_1) Paper _Finding structure in time_ published in 1990 by _J. Elman_ proposing a revision to Jordan Network
-
+ -->

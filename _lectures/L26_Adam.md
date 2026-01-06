@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-03T11:40:00
 title: "Lecture 26: RMSprop and Adam"
@@ -15,4 +15,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [RMSprop](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) Lecture note by _GEoffrey Hinton_ proposing RMSprop
 * [RMSprop Analysis](https://arxiv.org/abs/1502.04390v1) Paper _RMSProp and equilibrated adaptive learning rates for non-convex optimization_ by _Y. Dauphin et al._ published in 2015 talking about RMSprop and citing  Honton's lecture notes
-* [Adam](https://arxiv.org/abs/1412.6980) Paper _Adam: A Method for Stochastic Optimization_ published in 2014 by _D. Kingma and J. Ba_ proposing Adam
+* [Adam](https://arxiv.org/abs/1412.6980) Paper _Adam: A Method for Stochastic Optimization_ published in 2014 by _D. Kingma and J. Ba_ proposing Adam -->

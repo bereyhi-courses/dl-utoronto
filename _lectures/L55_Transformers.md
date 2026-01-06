@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-25T12:10:00
 title: "Lecture 55: Transformers with Multi-head Attention, Positional Encoding and Masked Decoding"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 7 - Section 4]({{ site.baseurl }}/assets/Notes/CH7/CH7_Sec4.pdf) 
 
 **Further Reads:**
-* [Transformer](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) Paper _Attention is All You Need_ published in 2017 by _A. Vaswani et al._ proposing Transformer (cited 205K times to this date)
+* [Transformer](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) Paper _Attention is All You Need_ published in 2017 by _A. Vaswani et al._ proposing Transformer (cited 205K times to this date) -->

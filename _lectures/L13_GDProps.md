@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-16T11:00:00
 title: "Lecture 13: More on Gradient Descent"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 1 - Section 5]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec5.pdf) 
 
 **Further Reads:**
-* [Gradient Descent](https://www.bishopbook.com/): Chapter 7 - Section 7.2 of [[BB]](https://www.bishopbook.com/)
+* [Gradient Descent](https://www.bishopbook.com/): Chapter 7 - Section 7.2 of [[BB]](https://www.bishopbook.com/) -->

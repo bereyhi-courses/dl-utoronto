@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-02T12:00:00
 title: "Lecture 1: Why Deep Learning"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 1 - Section 1]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec1.pdf) 
 
 **Further Reads:**
-* [Motivation](https://www.bishopbook.com/): Chapter 1 - Section 1.1 of [[BB]](https://www.bishopbook.com/)
+* [Motivation](https://www.bishopbook.com/): Chapter 1 - Section 1.1 of [[BB]](https://www.bishopbook.com/) -->

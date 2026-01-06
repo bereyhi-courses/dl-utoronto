@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-07T11:10:00
 title: "Lecture 28: Sources of Overfitting"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 2]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec2.pdf) 
 
 **Further Reads:**
-* [Overfitting and Regularization](https://www.bishopbook.com/): Chapter 9 - Sections 9.1 to 9.3 of [[BB]](https://www.bishopbook.com/)
+* [Overfitting and Regularization](https://www.bishopbook.com/): Chapter 9 - Sections 9.1 to 9.3 of [[BB]](https://www.bishopbook.com/) -->

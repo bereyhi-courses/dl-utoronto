@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-09T12:00:00
 title: "Lecture 10: From Perceptron to NNs -- Universal Approximation"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 1 - Section 3]({{ site.baseurl }}/assets/Notes/CH1/CH1_Sec3.pdf) 
 
 **Further Reads:**
-* [Universal Approximation](https://link.springer.com/article/10.1007/BF02551274): Paper _Approximation by superpositions of a sigmoidal function_ published in _Mathematics of Control, Signals and Systems_ by _George V. Cybenko_ in 1989
+* [Universal Approximation](https://link.springer.com/article/10.1007/BF02551274): Paper _Approximation by superpositions of a sigmoidal function_ published in _Mathematics of Control, Signals and Systems_ by _George V. Cybenko_ in 1989 -->

@@ -1,28 +1,28 @@
 # schedule
 day1: Tuesdays
-time1: 11 AM - 1 PM
-loc1: <strong>SF-1101</strong> - <em>Sandford Fleming Building</em>
+time1: 1 PM - 3 PM
+loc1: <strong>MC-252</strong> - <em>Mechanical Engineering Building</em>
 
-day2: Fridays
-time2: 11 AM - 1 PM
-loc2: <strong>MP-103</strong> - <em>McLennan Physical Laboratories</em>
+day2: Thursdays
+time2: 1 PM - 3 PM
+loc2: <strong>BL-205</strong> - <em>Claude T. Bissell Building</em>
 
-dayTut: Fridays
-timeTut: 1 PM - 2 PM
-locTut: <strong>SU B120</strong> - <em>Student Commons at 230 College Street</em>
+dayTut: Thursdays
+timeTut: 3 PM - 4 PM
+locTut: <strong>TBA</strong> - <em>TBA</em>
 
-start_date: September 2, 2025
-start_description: Please note that the lecture halls are different in Tuesdays and Fridays.
+start_date: January 6, 2026
+start_description: Please note that the lecture halls are different in Tuesdays and Thursdays.
 
-start_dateTut: September 19, 2025
+start_dateTut: January 15, 2026
 
-dayOffice: Thursdays 
-timeOffice: 1 PM - 2 PM
+dayOffice: Tuesdays
+timeOffice: 12 PM - 1 PM
 
 # Site settings
 course_name: Applied Deep Learning
-course_description: "The key goal of this course is to provide a fundamental understanding on Computational Learning, its functionality, and its deployment towards building information processing units. These concepts are keys to Deep Learning and its Applications. The course is designed to give a good mixture of fundamental notions and hands-on skills by teaching both theory of deep learning and recent advances in this area."
-course_semester: "Fall 2025"
+course_description: "The key goal of this course is to provide a fundamental understanding on Computational Learning, its functionality, and its deployment towards building information processing units. These concepts are keys to Deep Learning and its Applications. The course is designed to give a good mixture of fundamental notions and hands-on skills by teaching both theory of deep learning and recent advances in this area. This course takes a fundamentally different approach to machine learning compared to ECE1513."
+course_semester: "Winter 2026"
 
 
 assgn_mark: 45%
@@ -31,7 +31,7 @@ assgn_txt: "No need to say that this is the most important part! We are learning
 
 exam_mark: 25%
 exam_desc: "midterm exam"
-exam_txt: "Let us call it midterm, but to be fair it would be a theory-side-of-the-course exam! When we are over with the fundamental topics, somewhere halfway through Step 2 in Week 8, there will be an exam. The exam will ask questions on theory. There will be of course no programming questions in the exam! The exam will only evaluate the understanding of fundamental concepts through questions that can be either explained in words or solved simply by hand. This exam will comprise 25% of the total mark."
+exam_txt: "Let us call it midterm, but to be fair it would be a theory-side-of-the-course exam! When we are over with the fundamental topics, somewhere halfway through Step 2, there will be an exam. The exam will ask questions on theory. There will be of course no programming questions in the exam! The exam will only evaluate the understanding of fundamental concepts through questions that can be either explained in words or solved simply by hand. This exam will comprise 25% of the total mark."
 
 project_mark: 30%
 project_desc: "open-ended"

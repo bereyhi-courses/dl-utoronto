@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-30T11:50:00
 title: "Lecture 23: Evaluation and Generalization Measures"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 4]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec2.pdf) 
 
 **Further Reads:**
-* [Generalization](https://arxiv.org/abs/2102.05242): Chapter 6 of the Book _Patterns, predictions, and actions: A story about machine learning_ by _Moritz Hardt and B. Recht_ published in 2021
+* [Generalization](https://arxiv.org/abs/2102.05242): Chapter 6 of the Book _Patterns, predictions, and actions: A story about machine learning_ by _Moritz Hardt and B. Recht_ published in 2021 -->

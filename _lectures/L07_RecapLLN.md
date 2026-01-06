@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-05T12:30:00
 title: "Lecture 7: Recap -- Law of Large Numbers"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Probability Theory](https://www.bishopbook.com/): Chapter 2 of [[BB]](https://www.bishopbook.com/)
-* [Probability Review](https://www.deeplearningbook.org/): Chapter 3 of [[GYC]](https://www.deeplearningbook.org/)
+* [Probability Review](https://www.deeplearningbook.org/): Chapter 3 of [[GYC]](https://www.deeplearningbook.org/) -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-16T12:00:00
 title: "Lecture 14: Forward Propagation in MLPs"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 1]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec1.pdf) 
 
 **Further Reads:**
-* [Deep FNNs](https://www.deeplearningbook.org/): Chapter 6 - Sections 6.3 and 6.4 of [[GYC]](https://www.deeplearningbook.org/)
+* [Deep FNNs](https://www.deeplearningbook.org/): Chapter 6 - Sections 6.3 and 6.4 of [[GYC]](https://www.deeplearningbook.org/) -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-26T12:10:00
 title: "Lecture 21: Stochastic Gradient Descent"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 4]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec2.pdf) 
 
 **Further Reads:**
-* [SGD](https://www.deeplearningbook.org/): Chapter 5 - Section 5.9 of [[GYC]](https://www.deeplearningbook.org/)
+* [SGD](https://www.deeplearningbook.org/): Chapter 5 - Section 5.9 of [[GYC]](https://www.deeplearningbook.org/) -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-11T12:15:00
 title: "Lecture 45: Sequence Processing by Recursion"
@@ -15,4 +15,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [BPTT](https://ieeexplore.ieee.org/abstract/document/58337) Paper _Backpropagation through time: What it does and how to do it_ published in 2002 by _P. Werbos_ explaining BPTT
 
-
+ -->

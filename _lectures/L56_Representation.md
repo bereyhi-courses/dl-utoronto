@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-28T11:10:00
 title: "Lecture 56: Representation via Nonlinear PCA"
@@ -15,4 +15,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [Nonlinear PCA](https://www.bishopbook.com/): Chapter 16 [[BB]](https://www.bishopbook.com/)
 * [Representation](https://ieeexplore.ieee.org/abstract/document/6790375) Paper _Nonlinear component analysis as a kernel eigenvalue problem_ published in 1998 by _B. Schölkopf et al._ 
-* [Nonlinear PCA via NNs](https://web.archive.org/web/20111003131045id_/http://pca.narod.ru/2MainGorbanKeglWunschZin.pdf) Paper _Nonlinear Principal Component Analysis: Neural Network Models and Applications_ published in 2008 by _M. Scholz et al._ 
+* [Nonlinear PCA via NNs](https://web.archive.org/web/20111003131045id_/http://pca.narod.ru/2MainGorbanKeglWunschZin.pdf) Paper _Nonlinear Principal Component Analysis: Neural Network Models and Applications_ published in 2008 by _M. Scholz et al._  -->

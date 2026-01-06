@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-10T11:10:00
 title: "Lecture 31: Statistical Viewpoint on Data"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Data](https://arxiv.org/abs/2102.05242): Chapter 8 of the Book _Patterns, predictions, and actions: A story about machine learning_ by _Moritz Hardt and B. Recht_ published in 2021
-* [Data Processing in Python](https://arxiv.org/abs/2211.04630) Open Book _Minimalist Data Wrangling with Python_ by _Marek Gagolewski_ going through data processing in Python
+* [Data Processing in Python](https://arxiv.org/abs/2211.04630) Open Book _Minimalist Data Wrangling with Python_ by _Marek Gagolewski_ going through data processing in Python -->

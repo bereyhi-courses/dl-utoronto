@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-21T11:15:00
 title: "Lecture 38: Pooling and Flattening"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Pooling](https://www.bishopbook.com/): Chapter 10 - Section 10.2.6 of [[BB]](https://www.bishopbook.com/)
-* [Flattening](https://www.bishopbook.com/): Chapter 10 - Sections 10.2.7 and 10.2.8 of [[BB]](https://www.bishopbook.com/)
+* [Flattening](https://www.bishopbook.com/): Chapter 10 - Sections 10.2.7 and 10.2.8 of [[BB]](https://www.bishopbook.com/) -->

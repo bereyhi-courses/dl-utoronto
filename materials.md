@@ -6,70 +6,70 @@ permalink: /materials/
 
 ## Lecture Notes
 The lecture notes are uploaded through the semester. For each chapter, the notes are provided section by section. 
-### Chapter 0: Course Overview and Logistics
-* [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file
+<!-- ### Chapter 0: Course Overview and Logistics
+* [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
 
-### Chapter 1: Fundamentals of Deep Learning
+<!-- ### Chapter 1: Fundamentals of Deep Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Motivation to Learn DL
 * [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): Learning from Data: _Basics_
 * [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Perceptron Machine
 * [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Deep Neural Networks
-* [Section 5]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec5.pdf): Function Optimization
+* [Section 5]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec5.pdf): Function Optimization -->
 
-### Chapter 2: Feedforward NNs
+<!-- ### Chapter 2: Feedforward NNs
 * [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Forward Pass in MLPs
 * [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Computing Gradient via _Backpropagation_ on Computation Graph
 * [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Multiclass Classification
-* [Section 4]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec4.pdf): Mini-batch Training and SGD Algorithm
+* [Section 4]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec4.pdf): Mini-batch Training and SGD Algorithm -->
 
-### Chapter 3: Advances - _Part I_
+<!-- ### Chapter 3: Advances - _Part I_
 * [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): More on Optimizers
 * [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Overfitting, Regularization and Dropout
 * [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Data Distribution and Preporcessing
-* [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Standardization and Batch Normalization
+* [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Standardization and Batch Normalization -->
 
-### Chapter 4: Convolutional NNs
+<!-- ### Chapter 4: Convolutional NNs
 * [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Why Convolution?
 * [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Components of CNNs
 * [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Deep CNNs
-* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Training CNNs
+* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Training CNNs -->
 
-### Chapter 5: Residual Learning
+<!-- ### Chapter 5: Residual Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Depth and Vanishing Gradient
-* [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Skip Connection and ResNet
+* [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Skip Connection and ResNet -->
 
-### Chapter 6: Sequence Processing
+<!-- ### Chapter 6: Sequence Processing
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Sequence Data 
 * [Section 2]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec2.pdf): RNNs
 * [Section 3]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec3.pdf): Training RNNs 
 * [Section 4]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec4.pdf): Gating
 * [Section 5]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec5.pdf): Bidirectional Sequence Processing 
-* [Section 6]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec6.pdf): CTC Algorithm
+* [Section 6]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec6.pdf): CTC Algorithm -->
 
-### Chapter 7: Sequence to Sequence Models
+<!-- ### Chapter 7: Sequence to Sequence Models
 * [Section 1]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec1.pdf): Seq2Seq
 * [Section 2]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec2.pdf): Encoder Decoder
 * [Section 3]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec3.pdf): Attention 
-* [Section 4]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec4.pdf): Self-Attention and Transformer
+* [Section 4]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec4.pdf): Self-Attention and Transformer -->
 
-### Chapter 8: Representation and Generation
+<!-- ### Chapter 8: Representation and Generation
 * [Section 1]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec1.pdf): Representation Problem
 * [Section 2]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec2.pdf): Autoencoding
-* [Section 3]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec3.pdf): Data Generation
+* [Section 3]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec3.pdf): Data Generation -->
 
 
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
-* [Tutorial 1](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial1-Python-and-ML-Fundamentals.ipynb): Intro to Python, Basic ML in Python, by __Saleh Tabatabaei__
-* [Tutorial 2](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial2-PyTorch.ipynb): Intro to PyTorch, Auto-grad, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/a5ad772e800fc000c61aaea3a2f3a510)
-* [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb): Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6)
-* [Tutorial 4](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/tree/main/Tutorial_Notebooks/Tutorial4-CNN%2C%20AlexNet%20in%20PyTorch): CNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/5814f9ece8b5d1687112f32649621720)
-* [Tutorial 5](https://q.utoronto.ca/courses/396459/modules): Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/d095763335f9139a5e7d99501e07cfd3)
-* [Tutorial 6](https://q.utoronto.ca/courses/396459/modules): ResNet by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/515c9ee8c3a9d1f64a51377c68009a0d)
-* [Tutorial 7](https://q.utoronto.ca/courses/396459/modules): RNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/315c11f3172eb92eb08c222645bad5f3)
-* [Tutorial 8](https://q.utoronto.ca/courses/396459/modules): Sequence Models by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/f0d28f4da270c61f7901555434ec0a42)
-* [Tutorial 9](https://q.utoronto.ca/courses/396459/modules): Autoencoders by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/87336a08b49ffa94c6b5ad6a7863b033)
+<!-- * [Tutorial 1](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial1-Python-and-ML-Fundamentals.ipynb): Intro to Python, Basic ML in Python, by __Saleh Tabatabaei__ -->
+<!-- * [Tutorial 2](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial2-PyTorch.ipynb): Intro to PyTorch, Auto-grad, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/a5ad772e800fc000c61aaea3a2f3a510) -->
+<!-- * [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb): Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6) -->
+<!-- * [Tutorial 4](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/tree/main/Tutorial_Notebooks/Tutorial4-CNN%2C%20AlexNet%20in%20PyTorch): CNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/5814f9ece8b5d1687112f32649621720) -->
+<!-- * [Tutorial 5](https://q.utoronto.ca/courses/396459/modules): Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/d095763335f9139a5e7d99501e07cfd3) -->
+<!-- * [Tutorial 6](https://q.utoronto.ca/courses/396459/modules): ResNet by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/515c9ee8c3a9d1f64a51377c68009a0d) -->
+<!-- * [Tutorial 7](https://q.utoronto.ca/courses/396459/modules): RNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/315c11f3172eb92eb08c222645bad5f3) -->
+<!-- * [Tutorial 8](https://q.utoronto.ca/courses/396459/modules): Sequence Models by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/f0d28f4da270c61f7901555434ec0a42) -->
+<!-- * [Tutorial 9](https://q.utoronto.ca/courses/396459/modules): Autoencoders by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/87336a08b49ffa94c6b5ad6a7863b033) -->
 
 
 
@@ -90,7 +90,7 @@ The following textbooks are also good resources for __practicing hands-on skills
 
 ## Reading List
 
-This section will be completed gradually through the semester.
+The following reading list might be updated through the semester.
 
 
 ### Chapter 1: Preliminaries

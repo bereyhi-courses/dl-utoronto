@@ -8,10 +8,6 @@ instructors:
 
 
 teaching_assistants:
-  - name: Navid Hassanzadeh
-    profile_pic: /_images/pp/navid.png
-    webpage: mailto:navid.hasanzadeh@mail.utoronto.ca
-
   - name: Jiaqi Wang
     profile_pic: /_images/pp/TAava.png
     webpage: mailto:jiaqiangela.wang@utoronto.ca
@@ -24,6 +20,10 @@ teaching_assistants:
     profile_pic: /_images/pp/TAava.png
     webpage: mailto:cassiekx.li@mail.utoronto.ca
   
+  - name: Navid Hassanzadeh
+    profile_pic: /_images/pp/navid.png
+    webpage: mailto:navid.hasanzadeh@mail.utoronto.ca
+
   - name: Saleh Tabatabaei
     profile_pic: /_images/pp/saleh.jpeg
     webpage: mailto:s.mirzatabatabaei@mail.utoronto.ca

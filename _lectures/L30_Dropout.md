@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-07T12:30:00
 title: "Lecture 30: Dropout"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Dropout 1](https://arxiv.org/abs/1207.0580) Paper _Improving neural networks by preventing co-adaptation of feature detectors_ published in 2012 by _G. Hinton et al._ proposing Dropout
-* [Dropout 2](https://jmlr.org/papers/v15/srivastava14a.html) Paper _Dropout: A Simple Way to Prevent Neural Networks from Overfitting_ published in 2014 by _N. Srivastava et al._ providing some analysis and illustrations on Dropout
+* [Dropout 2](https://jmlr.org/papers/v15/srivastava14a.html) Paper _Dropout: A Simple Way to Prevent Neural Networks from Overfitting_ published in 2014 by _N. Srivastava et al._ providing some analysis and illustrations on Dropout -->

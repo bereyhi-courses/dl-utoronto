@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-14T12:00:00
 title: "Lecture 47: Backpropagation Through Time"
@@ -17,4 +17,4 @@ hide_from_announcments: false
 * [Truncated BPTT](https://direct.mit.edu/neco/article/2/4/490/5561/An-Efficient-Gradient-Based-Algorithm-for-On-Line) Paper _An efficient gradient-based algorithm for on-line training of recurrent network trajectories_ published in 1990 by _R. Williams and J. Peng_ explaining truncated BPTT
 
 
-
+ -->

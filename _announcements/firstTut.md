@@ -1,4 +1,4 @@
 ---
-date: 2025-09-19T13:00:00
+date: 2026-01-05T13:00:00
 ---
-First tutorial will be on __September 19, 2025.__
+First tutorial will be on __January 15, 2026.__

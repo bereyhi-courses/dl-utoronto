@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-11-18T11:00:00
 title: "Lecture 49: Gated Architectures"
@@ -15,4 +15,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [LSTM](https://ieeexplore.ieee.org/abstract/document/6795963) Paper _Long short-term memory_ published in 1997 by _S. Hochreiter and J. Schmidhuber_ proposing LSTM
-* [GRU](https://arxiv.org/abs/1409.1259) Paper _On the Properties of Neural Machine Translation: Encoder-Decoder Approaches_ published in 2014 by _K. Cho et al._ proposing GRU
+* [GRU](https://arxiv.org/abs/1409.1259) Paper _On the Properties of Neural Machine Translation: Encoder-Decoder Approaches_ published in 2014 by _K. Cho et al._ proposing GRU -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-09-05T11:40:00
 title: "Lecture 5: Components 2 and 3: Model and Loss"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [ML Components](https://www.bishopbook.com/): Chapter 1 - Sections 1.2.1 to 1.2.4 of [[BB]](https://www.bishopbook.com/)
-* [ML Basics](https://www.deeplearningbook.org/): Chapter 5 of [[GYC]](https://www.deeplearningbook.org/)
+* [ML Basics](https://www.deeplearningbook.org/): Chapter 5 of [[GYC]](https://www.deeplearningbook.org/) -->

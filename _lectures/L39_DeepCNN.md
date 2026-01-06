@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-21T12:15:00
 title: "Lecture 39: Deep CNNs"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Convolution](https://www.deeplearningbook.org/): Chapter 9 - Sections 9.4 and 9.6 of [[GYC]](https://www.deeplearningbook.org/)
-
+ -->

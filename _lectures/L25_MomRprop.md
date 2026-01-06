@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-10-03T11:10:00
 title: "Lecture 25: Optimizer Boosting -- Scheduling, Momentum and Rprop Ideas"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Learning Rate Scheduling](https://ieeexplore.ieee.org/abstract/document/7926641) Paper _Cyclical Learning Rates for Training Neural Networks_ published in _Winter Conference on Applications of Computer Vision (WACV)_ by _Leslie N. Smith_ in 2017 discussing learning rate scheduling
-* [Rprop]() Paper _A direct adaptive method for faster backpropagation learning: the RPROP algorithm_ published in _IEEE International Conference on Neural Networks_ by _M. Riedmiller and H. Braun_ in 1993 proposing Rprop algorithm
+* [Rprop]() Paper _A direct adaptive method for faster backpropagation learning: the RPROP algorithm_ published in _IEEE International Conference on Neural Networks_ by _M. Riedmiller and H. Braun_ in 1993 proposing Rprop algorithm -->
