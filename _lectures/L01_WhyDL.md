@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-02T12:00:00
+date: 2026-01-06T14:00:00
 title: "Lecture 1: Introduction and DL Components"
 tldr: "DL Components"
 stat: lec
