@@ -49,9 +49,11 @@ The course project will be seriously started in the second half of the course. I
       </ul>
     </li>
     <li>
-      A final report (maximum <em>5 pages</em>) must be submitted in a PDF format. The report should be written in the provided formal style, including an abstract, introduction, method, experiments, results, and conclusion.<br>
-      <strong>Important:</strong> Please make sure to complete the section <em>Consent for Information Sharing.</em>
-      <strong>Important:</strong> Submissions that do not use template are considered <em>incomplete.</em>
+      A final report (maximum <em>5 pages</em>) must be submitted in a PDF format. The report must be written in the provided formal style, including an abstract, introduction, method, experiments, results, and conclusion.<br>
+      <ul>
+        <li><strong>Important:</strong> Please make sure to complete the sections <em>Teamwork Attestation, Consent for Information Sharing, AI Attestation.</em></li>
+        <li><strong>Important:</strong> Submissions that <strong>do not use template</strong> are considered <strong>incomplete.</strong></li>
+      </ul>
     </li>
     <li>
       A 5-minute presentation (maximum <em>5 slides including the title slide</em>) is given on the internal seminar on second week of April, i.e., <em>April 6 to Dec 10,</em> by the group. For presentation, any template can be used.
