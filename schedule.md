@@ -176,77 +176,77 @@ permalink: /schedule/
 
 
 # Tutorial Schedule
-<table style="border-collapse: collapse; width: 98.2946%; border-color: #000000; border-style: solid; margin-left: auto; margin-right: auto; height: 406px;" width="100%">
+<table style="border-collapse: collapse; width:  98.2946%; height: 360px; background-color: #c2e0f4; margin-left: auto; margin-right: auto;" border="1">
     <tbody>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center;"><em><strong>Week #</strong></em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center;"><em><strong>Date</strong></em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; text-align: center;"><em><strong>Topic</strong></em></td>
+            <td style="width: 7.25187%; border-color: #000000; height: 29px; text-align: center;"><em><strong>Week #</strong></em></td>
+            <td style="width: 20.8315%; border-color: #000000; height: 29px; text-align: center;"><em><strong>Date</strong></em></td>
+            <td style="width: 71.9167%; border-color: #000000; height: 29px; text-align: center;"><em><strong>Topic</strong></em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #f8cac6;"><em>1</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #f8cac6;"><em>Jan 08, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #f8cac6;"><em>First Week - <strong><span style="color: #e62429;">No Tutorial</span></strong></em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #f8cac6;"><em>1</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #f8cac6;"><em>Jan 08, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #f8cac6;"><em>First Week - <strong><span style="color: #e62429;">No Tutorial</span></strong></em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>2</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;" width="192"><em>Jan 15, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #bfedd2;" width="820"><em>Basics of Python, e.g., NumPy, SciKitLearn, MatplotLib, with Key Implementation Tricks</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>2</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;" width="192"><em>Jan 15, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #bfedd2;" width="820"><em>Basics of Python, e.g., NumPy, SciKitLearn, MatplotLib, with Key Implementation Tricks</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>3</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>Jan 22, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #bfedd2;" width="820"><em>Autograd by PyTorch and Its Implementation</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>3</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>Jan 22, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #bfedd2;" width="820"><em>Autograd by PyTorch and Its Implementation</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>4</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>Jan 29, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #bfedd2;" width="820"><em>MLP Implementation</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>4</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>Jan 29, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #bfedd2;" width="820"><em>MLP Implementation</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>5</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>Feb 5, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #bfedd2;" width="820"><em>Regularization, Dropout, and Batch Normalization&nbsp;</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>5</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>Feb 5, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #bfedd2;" width="820"><em>Regularization, Dropout, and Batch Normalization&nbsp;</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #c2e0f4;"><em>6</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #c2e0f4;"><em>Feb 12, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #c2e0f4;" width="820"><em>Midterm Review&nbsp;</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #c2e0f4;"><em>6</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #c2e0f4;"><em>Feb 12, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #c2e0f4;" width="820"><em>Midterm Review&nbsp;</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #f8cac6;"><em>7</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #f8cac6;"><em>Feb 19, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #f8cac6;" width="820"><em>Reading Week - <strong><span style="color: #e62429;">No Tutorial</span></strong></em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #f8cac6;"><em>7</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #f8cac6;"><em>Feb 19, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #f8cac6;" width="820"><em>Reading Week - <strong><span style="color: #e62429;">No Tutorial</span></strong></em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>8</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>Feb 26, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #bfedd2;" width="820"><em>CNN Implementation&nbsp;</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>8</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>Feb 26, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #bfedd2;" width="820"><em>CNN Implementation&nbsp;</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>9</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>Mar 5, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #bfedd2;" width="820"><em>Skip Connection and ResNet</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>9</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>Mar 5, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #bfedd2;" width="820"><em>Skip Connection and ResNet</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>10</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>Mar 12, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #bfedd2;" width="820"><em>RNNs and Gating Architectures, i.e., GRU and LSTM</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>10</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>Mar 12, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #bfedd2;" width="820"><em>RNNs and Gating Architectures, i.e., GRU and LSTM</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>11</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>Mar 19, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #bfedd2;" width="820"><em>Attention and Transformer</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>11</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>Mar 19, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #bfedd2;" width="820"><em>Attention and Transformer</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>12</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #bfedd2;"><em>Mar 26, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #bfedd2;"><em>Autoencoding and Variational Autoencoders</em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>12</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #bfedd2;"><em>Mar 26, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #bfedd2;"><em>Autoencoding and Variational Autoencoders</em></td>
         </tr>
         <tr style="height: 29px;">
-            <td style="width: 7.25187%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #f8cac6;"><em>13</em></td>
-            <td style="width: 20.8315%; border-color: #000000; border-style: solid; height: 29px; text-align: center; background-color: #f8cac6;"><em>Apr 02, 2026</em></td>
-            <td style="width: 71.9167%; border-color: #000000; border-style: solid; height: 29px; background-color: #f8cac6;"><em>Last Week -<strong><span style="color: #e62429;"> No tutorial (Reserved for Makeup)</span></strong></em></td>
+            <td style="width: 7.25187%; border-color: #000000;  height: 29px; text-align: center; background-color: #f8cac6;"><em>13</em></td>
+            <td style="width: 20.8315%; border-color: #000000;  height: 29px; text-align: center; background-color: #f8cac6;"><em>Apr 02, 2026</em></td>
+            <td style="width: 71.9167%; border-color: #000000;  height: 29px; background-color: #f8cac6;"><em>Last Week -<strong><span style="color: #e62429;"> No tutorial (Reserved for Makeup)</span></strong></em></td>
         </tr>
     </tbody>
 </table>
