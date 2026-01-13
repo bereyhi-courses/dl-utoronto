@@ -4,6 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
+## Course Calendar by Week
 <table style="border-collapse: collapse; width: 98.2946%; height: 436px; margin-left: auto; margin-right: auto;" border="1">
     <tbody>
         <tr style="height: 29px;">
@@ -110,6 +111,63 @@ permalink: /schedule/
             <td style="width: 25.9434%; height: 29px; text-align: center; background-color: #eccafa;"><strong><em>Examination Time -- No Lectures</em></strong></td>
             <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #eccafa;"><strong>Project: </strong><em>Presentation</em></td>
             <td style="width: 28.6721%; height: 29px; background-color: #eccafa; text-align: center;"><strong>Project:</strong> <em>Final Report and Source Codes<br /></em></td>
+        </tr>
+    </tbody>
+</table>
+
+
+## Deliverables with Deadlines
+<table style="border-collapse: collapse; width: 58.8356%; height: 395px; background-color: #c2e0f4; margin-left: auto; margin-right: auto;" border="1">
+    <tbody>
+        <tr style="height: 40.2167px;">
+            <td style="width: 19.7466%; height: 40.2167px; text-align: center; background-color: #ced4d9;"><strong>Item&nbsp;</strong></td>
+            <td style="width: 37.0954%; height: 40.2167px; text-align: center; background-color: #ced4d9;"><strong>Date Posted</strong></td>
+            <td style="width: 43.0193%; height: 40.2167px; text-align: center; background-color: #ced4d9;"><strong>Deadline</strong></td>
+        </tr>
+        <tr style="height: 40.2167px;">
+            <td style="width: 19.7466%; height: 40.2167px; text-align: center;"><em>Assignment 1</em></td>
+            <td style="width: 37.0954%; height: 40.2167px; background-color: #bfedd2; text-align: center;"><strong><em>Jan 15, 2026</em></strong></td>
+            <td style="width: 43.0193%; height: 40.2167px; text-align: center;"><strong><span style="color: #e62429;"><em>Jan 29, 2026</em></span></strong></td>
+        </tr>
+        <tr style="height: 41.2167px;">
+            <td style="width: 19.7466%; height: 41.2167px; text-align: center;"><em>Assignment 2</em></td>
+            <td style="width: 37.0954%; height: 41.2167px; text-align: center; background-color: #bfedd2;"><strong><em>Jan 29, 2026</em></strong></td>
+            <td style="width: 43.0193%; height: 41.2167px; text-align: center;"><strong><span style="color: #e62429;"><em>Feb 12, 2026</em></span></strong></td>
+        </tr>
+        <tr style="height: 40.2167px;">
+            <td style="width: 19.7466%; height: 40.2167px; text-align: center; background-color: #eccafa;"><em>Proposal</em></td>
+            <td style="width: 37.0954%; height: 40.2167px; text-align: center; background-color: #eccafa;"></td>
+            <td style="width: 43.0193%; height: 40.2167px; text-align: center; background-color: #eccafa;"><strong><span style="color: #e62429;"><em>Feb 06, 2026</em></span></strong></td>
+        </tr>
+        <tr style="height: 40.2167px;">
+            <td style="width: 19.7466%; height: 40.2167px; text-align: center;"><em>Assignment 3</em></td>
+            <td style="width: 37.0954%; height: 40.2167px; background-color: #bfedd2; text-align: center;"><strong><em>Feb 12, 2026</em></strong></td>
+            <td style="width: 43.0193%; height: 40.2167px; text-align: center;"><strong><span style="color: #e62429;"><em>Mar 05, 2026</em></span></strong></td>
+        </tr>
+        <tr style="height: 40.2167px;">
+            <td style="width: 19.7466%; height: 40.2167px; text-align: center; background-color: #fbeeb8;"><em>Midterm Exam</em></td>
+            <td style="width: 37.0954%; height: 40.2167px; text-align: center; background-color: #fbeeb8;"></td>
+            <td style="width: 43.0193%; height: 40.2167px; text-align: center; background-color: #fbeeb8;"><strong><span style="color: #e62429;"><em>Feb 26, 2026</em></span></strong></td>
+        </tr>
+        <tr style="height: 40.2167px;">
+            <td style="width: 19.7466%; height: 40.2167px; text-align: center; background-color: #eccafa;"><em>Project Briefing</em></td>
+            <td style="width: 37.0954%; height: 40.2167px; text-align: center; background-color: #eccafa;"></td>
+            <td style="width: 43.0193%; height: 40.2167px; text-align: center; background-color: #eccafa;"><strong><span style="color: #e62429;"><em>Mar 12, 2026</em></span></strong></td>
+        </tr>
+        <tr style="height: 40.2167px;">
+            <td style="width: 19.7466%; height: 40.2167px; text-align: center;"><em>Assignment 4</em></td>
+            <td style="width: 37.0954%; height: 40.2167px; background-color: #bfedd2; text-align: center;"><strong><em>Mar 12, 2026</em></strong></td>
+            <td style="width: 43.0193%; height: 40.2167px; text-align: center;"><strong><span style="color: #e62429;"><em>Mar 26, 2026</em></span></strong></td>
+        </tr>
+        <tr style="height: 40.2167px;">
+            <td style="width: 19.7466%; height: 40.2167px; text-align: center; background-color: #eccafa;"><em>Project Presentation</em></td>
+            <td style="width: 37.0954%; height: 40.2167px; text-align: center; background-color: #eccafa;"></td>
+            <td style="width: 43.0193%; height: 40.2167px; text-align: center; background-color: #eccafa;"><strong><span style="color: #e62429;"><em>Apr 07, 2026</em></span></strong></td>
+        </tr>
+        <tr style="height: 40.2167px;">
+            <td style="width: 19.7466%; height: 40.2167px; text-align: center; background-color: #eccafa;"><em>Report Submission</em></td>
+            <td style="width: 37.0954%; height: 40.2167px; text-align: center; background-color: #eccafa;"></td>
+            <td style="width: 43.0193%; height: 40.2167px; background-color: #eccafa; text-align: center;"><strong><span style="color: #e62429;"><em>Apr 10, 2026</em></span></strong></td>
         </tr>
     </tbody>
 </table>
