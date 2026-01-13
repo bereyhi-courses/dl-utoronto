@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-## Course Calendar by Week
+# Course Calendar by Week
 <table style="border-collapse: collapse; width: 98.2946%; height: 436px; margin-left: auto; margin-right: auto;" border="1">
     <tbody>
         <tr style="height: 29px;">
@@ -116,8 +116,8 @@ permalink: /schedule/
 </table>
 
 
-## Deliverables with Deadlines
-<table style="border-collapse: collapse; width: 58.8356%; height: 395px; background-color: #c2e0f4; margin-left: auto; margin-right: auto;" border="1">
+# Deliverables with Deadlines
+<table style="border-collapse: collapse; width:  98.2946%; height: 360px; background-color: #c2e0f4; margin-left: auto; margin-right: auto;" border="1">
     <tbody>
         <tr style="height: 40.2167px;">
             <td style="width: 19.7466%; height: 40.2167px; text-align: center; background-color: #ced4d9;"><strong>Item&nbsp;</strong></td>
