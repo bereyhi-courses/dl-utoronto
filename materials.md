@@ -19,6 +19,10 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 2: Multilayer Perceptrons (MLPs)
 * [Section 1]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec1.pdf): Forward Pass in MLPs
 * [Section 2]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec2.pdf): Computing Gradient via on a Graph
+* [Section 3]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec3.pdf): Backpropagation
+* [Section 4]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec4.pdf): Multiclass Classification
+* [Section 5]({{site.baseurl}}/assets/Notes/CH2/CH2_Sec5.pdf): Stochastic Gradient Descent
+
 
 
 <!-- ### Chapter 3: Advances - _Part I_
