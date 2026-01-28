@@ -64,7 +64,7 @@ The course project will be seriously started in the second half of the course. I
 
 ## Project Topics
 * The project is in general _open-ended_ and its topic can be anything related to _Deep Learning_
-* A list of suggested topics will be released. Nevertheless, there is no need to select from the list. You are welcome and indeed encouraged to develop your own proposal. 
+* A list of suggested topics can be found at [this link](https://docs.google.com/document/d/1RZUy37hQE0u05uy_ayhRoNWnNJ3qSw0OXn8Wel-2XKk/edit?usp=sharing)
 <!-- * If you choose from the list of topics, please add a comment to that topic indicating that you have taken this topic. This is only to follow the distribution of the topics -->
 
 ## Some Advices and Suggestions
