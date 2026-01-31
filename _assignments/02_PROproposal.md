@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2026-01-29T8:00:00
-title: 'Assignment 2: MLPss'
+title: 'Assignment 2: MLPs'
 # pdf: 
 link: https://app.crowdmark.com/student/assessments/assignment-2-mlps
 # solutions: /static_files/assignments/asg_solutions.pdf

@@ -18,10 +18,10 @@ As mentioned in the main page, the course will consists of 3 assignment sets. Ea
 - Deadline is on __January 29, 2026__ at __11:59 PM EST__
 - No submission is accepted after the deadline
 
-<!-- ### Assignment 2: Feedforward Neural Networks
-- [Assignment 2]({{site.baseurl}}/assignments/03_assignment2) has been posted on _September 30, 2025_ 
-- Deadline is on __October 15, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day -->
+### Assignment 2: MLPs
+- [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _January 29, 2026_ 
+- Deadline is on __February 12, 2026__ at __11:59 PM EST__
+- No submission is accepted after the deadline
 
 <!-- ### Assignment 3: CNNs and ResNets
 - [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _October 20, 2025_ 
