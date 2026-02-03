@@ -47,7 +47,7 @@ permalink: /schedule/
             <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Feb 02 - Feb 06</em></td>
             <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
             <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;"></td>
-            <td style="width: 28.6721%; height: 29px; background-color: #eccafa; text-align: center;"><strong>Project:</strong> <em>Flyer and Proposal</em><strong></strong></td>
+            <td style="width: 28.6721%; height: 29px; background-color: #eccafa; text-align: center;"><strong>Project:</strong> <em>Proposal</em><strong></strong></td>
         </tr>
         <tr style="height: 29px;">
             <td style="width: 5.4276%; height: 29px; text-align: center;"><em>6</em></td>
