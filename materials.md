@@ -27,6 +27,9 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 
 ### Chapter 3: Advancing Our Toolbox
 * [Section 1]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec1.pdf): More on Optimizers
+* [Section 2]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec2.pdf): Generalization
+* [Section 3]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec3.pdf): Data
+* [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Batch Normalization
 
 
 <!-- ### Chapter 4: Convolutional NNs
