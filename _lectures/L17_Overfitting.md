@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-05T14:10:00
+date: 2026-02-05T14:10:00
 title: "Lecture 17: Overfitting and Regularization"
 tldr: "Overfitting"
 stat: lec
