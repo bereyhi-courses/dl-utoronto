@@ -32,11 +32,11 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 4]({{site.baseurl}}/assets/Notes/CH3/CH3_Sec4.pdf): Batch Normalization
 
 
-<!-- ### Chapter 4: Convolutional NNs
+### Chapter 4: Convolutional NNs
 * [Section 1]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec1.pdf): Why Convolution?
-* [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Components of CNNs
-* [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Deep CNNs
-* [Section 4]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec4.pdf): Training CNNs -->
+* [Section 2]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec2.pdf): Convolutional Layers
+* [Section 3]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec3.pdf): Pooling in CNNs
+
 
 <!-- ### Chapter 5: Residual Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Depth and Vanishing Gradient
