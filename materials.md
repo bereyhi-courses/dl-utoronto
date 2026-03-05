@@ -40,9 +40,9 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Section 5]({{site.baseurl}}/assets/Notes/CH4/CH4_Sec5.pdf): Training CNNs 
 
 
-<!-- ### Chapter 5: Residual Learning
+### Chapter 5: Residual Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec1.pdf): Depth and Vanishing Gradient
-* [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Skip Connection and ResNet -->
+* [Section 2]({{site.baseurl}}/assets/Notes/CH5/CH5_Sec2.pdf): Skip Connection and ResNet
 
 <!-- ### Chapter 6: Sequence Processing
 * [Section 1]({{site.baseurl}}/assets/Notes/CH6/CH6_Sec1.pdf): Sequence Data 
