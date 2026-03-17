@@ -54,11 +54,11 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 * [Appendix]({{site.baseurl}}/assets/Notes/CH6/CH6_App.pdf): CTC Algorithm 
 
 
-<!-- ### Chapter 7: Sequence to Sequence Models
+### Chapter 7: Sequence to Sequence Models
 * [Section 1]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec1.pdf): Seq2Seq
 * [Section 2]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec2.pdf): Encoder Decoder
 * [Section 3]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec3.pdf): Attention 
-* [Section 4]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec4.pdf): Self-Attention and Transformer -->
+* [Section 4]({{site.baseurl}}/assets/Notes/CH7/CH7_Sec4.pdf): Self-Attention and Transformer
 
 <!-- ### Chapter 8: Representation and Generation
 * [Section 1]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec1.pdf): Representation Problem
