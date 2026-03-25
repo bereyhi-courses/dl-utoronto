@@ -7,17 +7,21 @@ For the Quercus page of the course please [click here](https://q.utoronto.ca/cou
 * All announcement will be sent through [Quercus](https://q.utoronto.ca/courses/419512)
 * You can access the Crowdmark and Piazza page of the course through [Quercus](https://q.utoronto.ca/courses/419512)
 
-<!-- ## Final Project Submission and Presentation -->
+## Final Project Submission and Presentation
 
-<!-- ### Final Presentations
-The final project presentations are given on _Tuesday December 9._
+### Presentation Format
+We adopt a new presentation scheme this year which makes more flexibility. The procedure is as follows:
+- Each set of groups have been assigned to a cluster that is being supervised by a TA. 
+- For each cluster a time window of 2 hours on __April 7__ is dedicated. 
+- The groups should show up during that time window (at least a bit prior to their turn) and will present their project (in order) to the TA and Instructor (a Hackathon style).
+- Each group will present for __5 minutes__ and will be asked questions for 5 minutes.
+Logistic details are shared on [Quercus](https://q.utoronto.ca/courses/419512). 
 
-The seminars __start at 4:00 PM__ in the __Claude T. Bissell Building - Room 205 (BL 205).__ The detailed schedule can be found [Quercus.](https://q.utoronto.ca/courses/396459) -->
+### Final Report and Code Submission
+The final report and source code are due on __April 10.__ Please note that
+- Your report must meet the template and page limit.
+- You may (and strongly recommended) to reflect the feedback you get during the presentation in your final report.
 
-
-<!-- ### Final Submission
-
-The final __submission deadline for the report and code__ is __December 11 at 11:59 PM.__ While you may continue to edit your code on your Git repository, we will only consider _commits made before the deadline as part of the final submission._ -->
 
 ## Midterm Exam
 
