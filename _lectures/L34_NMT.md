@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-03-19T12:10:00
-title: "Lecture 53: Attention Mechanism"
+title: "Lecture 34: Attention Mechanism"
 tldr: "Attention"
 stat: lec
 # for lectures stat: lec

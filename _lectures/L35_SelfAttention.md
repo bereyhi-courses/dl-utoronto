@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-03-24T13:10:00
-title: "Lecture 36: Self-Attention as Processing Unit"
+title: "Lecture 35: Self-Attention as Processing Unit"
 tldr: "Transformers I"
 stat: lec
 # for lectures stat: lec
