@@ -15,6 +15,7 @@ We adopt a new presentation scheme this year which makes more flexibility. The p
 - For each cluster a time window of 2 hours on __April 7__ is dedicated. 
 - The groups should show up during that time window (at least a bit prior to their turn) and will present their project (in order) to the TA and Instructor (a Hackathon style).
 - Each group will present for __5 minutes__ and will be asked questions for 5 minutes.
+- The presentations are given in Room BA8229 (Bahen).
 
 Logistic details are shared on [Quercus](https://q.utoronto.ca/courses/419512). 
 
