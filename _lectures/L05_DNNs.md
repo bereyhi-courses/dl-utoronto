@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-01-13T14:00:00
 title: "Lecture 5: Universal Approximation Theorem and Deep NNs"
@@ -15,4 +15,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Universal Approximation](https://link.springer.com/article/10.1007/BF02551274): Paper _Approximation by superpositions of a sigmoidal function_ published in _Mathematics of Control, Signals and Systems_ by _George V. Cybenko_ in 1989 
-* [DNNs](https://www.bishopbook.com/): Chapter 6 - Sections 6.2 and 6.3 of [[BB]](https://www.bishopbook.com/)
+* [DNNs](https://www.bishopbook.com/): Chapter 6 - Sections 6.2 and 6.3 of [[BB]](https://www.bishopbook.com/) -->

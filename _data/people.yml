@@ -8,14 +8,14 @@ instructors:
 
 
 teaching_assistants:
-  - name: Dr. Faeze Moradi
-    profile_pic: /_images/pp/TAava.png
-    webpage: mailto:faeze.moradi@mail.utoronto.ca
-  
   - name: Cassie Li
     profile_pic: /_images/pp/TAava.png
     webpage: mailto:cassiekx.li@mail.utoronto.ca
   
+  - name: Sara Azadegi Naeini
+    profile_pic: /_images/pp/TAava.png
+    webpage: mailto:sara.azadeginaeini@mail.utoronto.ca
+
   - name: Navid Hassanzadeh
     profile_pic: /_images/pp/navid.png
     webpage: mailto:navid.hasanzadeh@mail.utoronto.ca
@@ -23,3 +23,4 @@ teaching_assistants:
   - name: Saleh Tabatabaei
     profile_pic: /_images/pp/saleh.jpeg
     webpage: mailto:s.mirzatabatabaei@mail.utoronto.ca
+  

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-03-10T14:15:00
 title: "Lecture 28: Learning through Time"
@@ -17,3 +17,4 @@ hide_from_announcments: false
 * [Seq Models](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) Article _The Unreasonable Effectiveness of Recurrent Neural Networks_ written in May 2015 by _A. Karpathy_ discussing different types of sequence problems
 
 
+ -->

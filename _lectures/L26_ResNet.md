@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-03-05T14:15:00
 title: "Lecture 26: Skip Connection and ResNet"
@@ -17,3 +17,4 @@ hide_from_announcments: false
 * [ResNet-1001](https://arxiv.org/abs/1603.05027) Paper _Identity Mappings in Deep Residual Networks_ published in 2016 by _K. He et al._ demonstrating how deep ResNet can go
 * [U-Net](https://arxiv.org/abs/1505.04597) Paper _U-Net: Convolutional Networks for Biomedical Image Segmentation_ published in 2015 by _O. Ronneberger et al._ proposing U-Net
 * [DenseNet](https://arxiv.org/abs/1608.06993) Paper _Densely Connected Convolutional Networks_ published in 2017 by _H. Huang et al._ proposing DenseNet
+ -->

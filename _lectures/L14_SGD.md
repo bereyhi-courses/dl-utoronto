@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-02-03T13:10:00
 title: "Lecture 14: Stochastic Gradient Descent and Learning Curves"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 5]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec5.pdf) 
 
 **Further Reads:**
-* [SGD](https://www.deeplearningbook.org/): Chapter 5 - Section 5.9 of [[GYC]](https://www.deeplearningbook.org/)
+* [SGD](https://www.deeplearningbook.org/): Chapter 5 - Section 5.9 of [[GYC]](https://www.deeplearningbook.org/) -->

@@ -5,8 +5,8 @@ permalink: /materials/
 ---
 
 ## Lecture Notes
-The lecture notes are uploaded through the semester. For each chapter, the notes are provided section by section. 
-### Chapter 0: Course Overview and Logistics
+The lecture notes are uploaded through the semester. 
+<!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file
 
 ### Chapter 1: Fundamentals of Deep Learning
@@ -63,23 +63,17 @@ The lecture notes are uploaded through the semester. For each chapter, the notes
 ### Chapter 8: Representation and Generation
 * [Section 1]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec1.pdf): Representation Problem
 * [Section 2]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec2.pdf): Autoencoding
-* [Section 3]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec3.pdf): Data Generation
+* [Section 3]({{site.baseurl}}/assets/Notes/CH8/CH8_Sec3.pdf): Data Generation -->
 
 
 
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
-* [Tutorial 1](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial1-Python-and-ML-Fundamentals.ipynb): Intro to Python, Basic ML in Python, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/1080a0d6dd1a4f2bd15d67ddef15809c)
+<!-- * [Tutorial 1](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial1-Python-and-ML-Fundamentals.ipynb): Intro to Python, Basic ML in Python, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/1080a0d6dd1a4f2bd15d67ddef15809c)
 * [Tutorial 2](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial2-PyTorch.ipynb): Intro to PyTorch, Auto-grad, by __Saleh Tabatabaei__ _Unfortunately, the teaching station did not work!_ [Recording from Fall 2025](https://play.library.utoronto.ca/watch/a5ad772e800fc000c61aaea3a2f3a510)
 * [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb): Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ _Unfortunately, the teaching station did not work!_ [Recording from Fall 2025](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6) 
 * [Tutorial 5] Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/ba239c0540eda23ff81c7e99ca608e02) -- The materials have been uploaded on Quercus
-<!-- * [Tutorial 5](https://q.utoronto.ca/courses/396459/modules): Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/d095763335f9139a5e7d99501e07cfd3) -->
-<!-- * [Tutorial 6](https://q.utoronto.ca/courses/396459/modules): ResNet by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/515c9ee8c3a9d1f64a51377c68009a0d) -->
-<!-- * [Tutorial 7](https://q.utoronto.ca/courses/396459/modules): RNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/315c11f3172eb92eb08c222645bad5f3) -->
-<!-- * [Tutorial 8](https://q.utoronto.ca/courses/396459/modules): Sequence Models by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/f0d28f4da270c61f7901555434ec0a42) -->
-<!-- * [Tutorial 9](https://q.utoronto.ca/courses/396459/modules): Autoencoders by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/87336a08b49ffa94c6b5ad6a7863b033) -->
-
-
+ -->
 
 
 ## Book

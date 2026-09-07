@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-02-24T13:10:00
 title: "Lecture 22: Multi-channel Convolution and Pooling"
@@ -18,3 +18,4 @@ hide_from_announcments: false
 * [Multi-channel Convolution](https://www.bishopbook.com/): Chapter 10 - Sections 10.2.3 to 10.2.5 of [[BB]](https://www.bishopbook.com/) 
 * [Pooling](https://www.bishopbook.com/): Chapter 10 - Section 10.2.6 of [[BB]](https://www.bishopbook.com/)
 * [Flattening](https://www.bishopbook.com/): Chapter 10 - Sections 10.2.7 and 10.2.8 of [[BB]](https://www.bishopbook.com/)
+ -->

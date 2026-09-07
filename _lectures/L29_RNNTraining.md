@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-03-12T13:00:00
 title: "Lecture 29: Training RNNs"
@@ -18,3 +18,4 @@ hide_from_announcments: false
 
 
 
+ -->

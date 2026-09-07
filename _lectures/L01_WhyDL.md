@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-01-06T14:00:00
 title: "Lecture 1: Introduction and DL Components"
@@ -16,4 +16,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [Motivation](https://www.bishopbook.com/): Chapter 1 - Section 1.1 of [[BB]](https://www.bishopbook.com/)
 * [Review on Linear Algebra](https://www.deeplearningbook.org/): Chapter 2 of [[GYC]](https://www.deeplearningbook.org/) 
-* [ML Components](https://www.bishopbook.com/): Chapter 1 - Sections 1.2.1 to 1.2.4 of [[BB]](https://www.bishopbook.com/)
+* [ML Components](https://www.bishopbook.com/): Chapter 1 - Sections 1.2.1 to 1.2.4 of [[BB]](https://www.bishopbook.com/) -->

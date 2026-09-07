@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-01-27T13:10:00
 title: "Lecture 10: Backpropagation"
@@ -14,4 +14,4 @@ hide_from_announcments: false
 
 **Further Reads:**
 * [Backpropagation](https://www.deeplearningbook.org/): Chapter 6 - Section 6.5 of [[GYC]](https://www.deeplearningbook.org/)
-* [Backpropagation](https://www.bishopbook.com/): Chapter 8 of [[BB]](https://www.bishopbook.com/)
+* [Backpropagation](https://www.bishopbook.com/): Chapter 8 of [[BB]](https://www.bishopbook.com/) -->

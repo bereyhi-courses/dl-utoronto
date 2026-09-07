@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-03-24T13:10:00
 title: "Lecture 35: Self-Attention as Processing Unit"
@@ -15,3 +15,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [Transformers](https://www.bishopbook.com/): Chapter 12 of [[BB]](https://www.bishopbook.com/)
 
+ -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-03-19T12:10:00
 title: "Lecture 34: Attention Mechanism"
@@ -16,3 +16,4 @@ hide_from_announcments: false
 * [Attention](https://arxiv.org/abs/1409.0473) Paper _Neural Machine Translation by Jointly Learning to Align and Translate_ published in 2015 by _D. Bahdanau et al._ proposing Attention mechanism
 * [Attention NMT](hhttps://arxiv.org/abs/1508.04025) Paper _Effective Approaches to Attention-based Neural Machine Translation_ published in 2015 by _M. Loung et al._ proposing Attention-based NMT
 
+ -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-02-24T14:15:00
 title: "Lecture 23: Deep CNNs"
@@ -16,3 +16,4 @@ hide_from_announcments: false
 * [Convolution](https://www.deeplearningbook.org/): Chapter 9 - Sections 9.4 and 9.6 of [[GYC]](https://www.deeplearningbook.org/)
 * [VGG](https://arxiv.org/abs/1409.1556) Paper _Very Deep Convolutional Networks for Large-Scale Image Recognition_ published in 2014 by _K. Simonyan and A. Zisserman_ proposing VGG Architectures
 
+ -->

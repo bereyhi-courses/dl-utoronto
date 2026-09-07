@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-03-17T13:00:00
 title: "Lecture 31: Correspondence Problem and CTC"
@@ -18,3 +18,4 @@ hide_from_announcments: false
 **Further Reads:**
 * [CTC](https://dl.acm.org/doi/10.1145/1143844.1143891) Paper _Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks_ published in 2006 by _A. Graves et al._ proposing CTC Algorithm
 
+ -->

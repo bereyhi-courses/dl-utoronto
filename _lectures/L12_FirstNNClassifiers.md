@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-01-29T13:10:00
 title: "Lecture 12: Neural Classifier"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 2 - Section 4]({{ site.baseurl }}/assets/Notes/CH2/CH2_Sec4.pdf) 
 
 **Further Reads:**
-* [Binary Classification](https://www.bishopbook.com/): Chapter 6 - Section 6.6 of [[BB]](https://www.bishopbook.com/)
+* [Binary Classification](https://www.bishopbook.com/): Chapter 6 - Section 6.6 of [[BB]](https://www.bishopbook.com/) -->

@@ -1,4 +1,4 @@
 ---
-date: 2026-01-05T12:00:00
+date: 2026-09-06T18:00:00
 ---
-First lecture will be on <strong>January 6, 2026.</strong>
+First lecture will be on <strong>September 8, 2026.</strong>

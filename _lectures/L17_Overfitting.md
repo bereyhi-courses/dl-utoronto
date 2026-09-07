@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-02-05T14:10:00
 title: "Lecture 17: Overfitting and Regularization"
@@ -13,4 +13,4 @@ hide_from_announcments: false
 - [Chapter 3 - Section 2]({{ site.baseurl }}/assets/Notes/CH3/CH3_Sec2.pdf) 
 
 **Further Reads:**
-* [Regularization](https://www.deeplearningbook.org/): Chapter 7 of [[GYC]](https://www.deeplearningbook.org/)
+* [Regularization](https://www.deeplearningbook.org/): Chapter 7 of [[GYC]](https://www.deeplearningbook.org/) -->

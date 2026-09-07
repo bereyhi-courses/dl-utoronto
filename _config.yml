@@ -1,41 +1,41 @@
 # schedule
 day1: Tuesdays
-time1: 1 PM - 3 PM
+time1: 1 PM - 4 PM
 loc1: <strong>MC-252</strong> - <em>Mechanical Engineering Building</em>
 
-day2: Thursdays
-time2: 1 PM - 3 PM
-loc2: <strong>BL-205</strong> - <em>Claude T. Bissell Building</em>
+# day2: Thursdays
+# time2: 1 PM - 3 PM
+# loc2: <strong>BL-205</strong> - <em>Claude T. Bissell Building</em>
 
-dayTut: Thursdays
-timeTut: 3 PM - 4 PM
-locTut: <strong>PB B150</strong> - <em>Leslie Dan Pharmacy Building</em>
+dayTut: Fridays
+timeTut: 1 PM - 2 PM
+locTut: <strong>MY-150</strong> - <em>Myhal Centre</em>
 
-start_date: January 6, 2026
-start_description: Please note that the lecture halls are different in Tuesdays and Thursdays.
+start_date: September 8, 2026
+# start_description: Please note that the lecture halls are different in Tuesdays and Thursdays.
 
-start_dateTut: January 15, 2026
+start_dateTut: September 11, 2026
 
 dayOffice: Tuesdays
-timeOffice: 11:30 AM - 12:30 PM
+timeOffice: 4:00 PM - 5:00 PM
 
 # Site settings
 course_name: Applied Deep Learning
 course_description: "The key goal of this course is to provide a fundamental understanding on Computational Learning, its functionality, and its deployment towards building information processing units. These concepts are keys to Deep Learning and its Applications. The course is designed to give a good mixture of fundamental notions and hands-on skills by teaching both theory of deep learning and recent advances in this area. This course takes a fundamentally different approach to machine learning compared to ECE1513."
-course_semester: "Winter 2026"
+course_semester: "Fall 2026"
 
 
-assgn_mark: 45%
+assgn_mark: 40%
 assgn_desc: "4 assignment sets"
-assgn_txt: "No need to say that this is the most important part! We are learning Deep Learning. This means that we should get our hands dirty and implement whatever we learn. There will be four set of assignments. Roughly speaking, the first one goes through basics and make you get into the mood of the course. The next three go through MLPs, CNNs and Sequence Models. There will be also some optional items for self-practice. The assignments will count roughly for 45% of your final mark."
+assgn_txt: "No need to say that this is the most important part! We are learning Deep Learning. This means that we should get our hands dirty and implement whatever we learn. There will be five set of assignments. The first one goes through basics and make you get into the mood of the course. The next four go through MLPs, CNNs, Transformers, and Autoencoding. There will be also some optional items for self-practice."
 
-exam_mark: 25%
-exam_desc: "midterm exam"
-exam_txt: "Let us call it midterm, but to be fair it would be a theory-side-of-the-course exam! When we are over with the fundamental topics, somewhere halfway through Step 2, there will be an exam. The exam will ask questions on theory. There will be of course no programming questions in the exam! The exam will only evaluate the understanding of fundamental concepts through questions that can be either explained in words or solved simply by hand. This exam will comprise 25% of the total mark."
+exam_mark: 30%
+exam_desc: "Exam"
+exam_txt: "We have two in-term exams in this semester. The exams are on <em>Friday, October 16</em> and <em>Friday, November 27.</em> Each exam will ask two questions similar to what you have seen in assignments, tutorials, and practice questions shared with you. The exam evaluates the understanding of fundamental concepts."
 
 project_mark: 30%
 project_desc: "open-ended"
-project_txt: "Last but not the least, there will be a final project. This is the exciting part of the course, where we could challenge ourselves and test the development of our skills! Each group suggests its own problem that is to be solved by Deep Learning. Each group will then work on the project through the semester and present its final result at the end in a report and a short presentation. Doing this project, we will build self-confidence that we are now experts in Deep Learning. This part will be 30% of the total mark. Note that the final projects plays the role of final evaluation for this course."
+project_txt: "Each group suggests its own problem that is to be solved by Deep Learning. Each group will then work on the project through the semester and present its final result at the end in a report and a short presentation. The group should complete the project and documentation through a Git Repository that is shared with their supervisor and the instructor."
 
 
 baseurl: "/dl-utoronto" # the subpath of your site, e.g. /blog/
