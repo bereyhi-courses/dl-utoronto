@@ -7,7 +7,7 @@ For the Quercus page of the course please [click here](https://q.utoronto.ca/cou
 * All announcement will be sent through [Quercus](https://q.utoronto.ca/courses/419512)
 * You can access the Crowdmark and Piazza page of the course through [Quercus](https://q.utoronto.ca/courses/419512)
 
-## Final Project Submission and Presentation
+<!-- ## Final Project Submission and Presentation
 
 ### Presentation Format
 We adopt a new presentation scheme this year which makes more flexibility. The procedure is as follows:
@@ -36,4 +36,4 @@ For the exam, please pay attention to the following points:
 * Please bring a __photo ID__ with you to the exam
 * The exam is __open-book__ meaning that you can bring any __printed material__ with you _(printed notes, your own notes, cheat-sheet, textbook, etc)._ __Electronic devices are though NOT allowed__ in the exam
 
-If you need any assistance or specific accommodation for the exam, please feel free to reach out.
+If you need any assistance or specific accommodation for the exam, please feel free to reach out. -->
