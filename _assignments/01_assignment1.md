@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2026-09-11T23:00:00
+date: 2026-09-11T23:40:00
 title: 'Assignment #1 - Fundamentals of Computational Learning'
 # pdf: 
 # link: https://app.crowdmark.com/student/assessments/assignment-1-fundamentals

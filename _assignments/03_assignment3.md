@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2026-10-12T23:00:00
+date: 2026-10-12T23:40:00
 title: 'Assignment #3 - CNNs and ResNets'
 # pdf: 
 # link: https://app.crowdmark.com/student/assessments/assignment-3-convolutional-neural-networks

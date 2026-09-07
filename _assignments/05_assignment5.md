@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2026-11-20T23:00:00
+date: 2026-11-20T23:40:00
 title: 'Assignment #5 - Autoencoding'
 # pdf: 
 # link: https://app.crowdmark.com/

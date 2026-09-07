@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2026-11-06T23:00:00
+date: 2026-11-06T23:40:00
 title: 'Assignment #4 - Sequence Models and Transformers'
 # pdf: 
 # link: https://app.crowdmark.com/student/assessments/assignment-3-convolutional-neural-networks
