@@ -9,5 +9,6 @@ due_event:
     type: due
     date: 2026-11-06T23:59:59
     description: 'Assignment #3 due'
+hide_from_announcments: true
 ---
 Please submit through the Crowdmark.
