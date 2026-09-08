@@ -7,8 +7,8 @@ permalink: /materials/
 ## Lecture Notes
 The lecture notes are uploaded through the semester. 
 
-<!-- ### Chapter 0: Course Overview and Logistics
-* [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
+* [Lecture 00]({{site.baseurl}}/assets/Notes/L00_handout.pdf): Course Info and Logistics
+* [Lecture 01]({{site.baseurl}}/assets/Notes/L01_handout.pdf): Fundamentals of DL
 
 <!-- ### Chapter 1: Fundamentals of Deep Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Motivation to Learn DL
