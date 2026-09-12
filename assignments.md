@@ -20,10 +20,10 @@ permalink: /assignments/
 As mentioned in the main page, the course will consists of 5 assignment sets. Each assignment includes Written Questions that are to be solved (or briefly answered), and Programming Tasks which are to be implemented in Python.
 
 ## Assignment Releases
-### Assignment 1: Fundamentals of Computational Learning
-<!-- - [Assignment 1]({{site.baseurl}}/assignments/01_assignment1) has been posted on _January 15, 2026_ 
-- Deadline is on __January 29, 2026__ at __11:59 PM EST__
-- No submission is accepted after the deadline -->
+### Assignment 1: Fundamentals of Deep Learning
+- [Assignment 1]({{site.baseurl}}/assignments/01_assignment1) has been posted on _September 11, 2026_ 
+- Deadline is on __September 25, 2026__ at __11:30 PM EST__
+- No late submission is accepted
 
 ### Assignment 2: Deep Learning and MLPs
 <!-- - [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _January 29, 2026_ 
