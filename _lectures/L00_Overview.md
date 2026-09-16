@@ -6,7 +6,7 @@ tldr: "Overview"
 stat: lec
 # for lectures stat: lec
 description: This lecture goes through the course logistics. Unfortunately, it did not get recorded!
-videoID:  
+# videoID:  
 hide_from_announcments: false
 ---
 **Lecture Notes:**

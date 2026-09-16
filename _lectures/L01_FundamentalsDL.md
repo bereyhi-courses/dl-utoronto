@@ -6,7 +6,7 @@ tldr: "DL Components"
 stat: lec
 # for lectures stat: lec
 description: This lecture goes over preliminaries. We study key components of ML problems, work with the example of classification, and formulate the training of a model via empirical risk minimization. Unfortunately, the lecture was not recorded!
-videoID:  
+# videoID:  
 hide_from_announcments: false
 ---
 **Lecture Notes:**
