@@ -72,6 +72,7 @@ The lecture notes are uploaded through the semester.
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
 * [Tutorial 1 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial1.zip) -- [Tutorial 1 Video](https://play.library.utoronto.ca/watch/f4f6bfbc371c76874568cd92208f2ce2): Fundamentals of DL, by __Saleh Tabatabaei__ 
+* [Tutorial 2 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial2.zip) -- [Tutorial 2 Video](https://play.library.utoronto.ca/watch/38c17554915583faac614d44867bc8f2): MLPs and Autograd, by __Saleh Tabatabaei__ 
 
 
 
