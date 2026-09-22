@@ -10,6 +10,7 @@ The lecture notes are uploaded through the semester.
 * [Lecture 00]({{site.baseurl}}/assets/Notes/L00_handout.pdf): Course Info and Logistics
 * [Lecture 01]({{site.baseurl}}/assets/Notes/L01_handout.pdf): Fundamentals of DL
 * [Lecture 02]({{site.baseurl}}/assets/Notes/L02_handout.pdf): Deep NNs and Gradient Descent
+* [Lecture 03]({{site.baseurl}}/assets/Notes/L02_handout.pdf): Computation Graphs and SGD
 
 <!-- ### Chapter 1: Fundamentals of Deep Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Motivation to Learn DL
