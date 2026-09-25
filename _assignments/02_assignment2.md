@@ -3,12 +3,12 @@ type: assignment
 date: 2026-09-25T23:40:00
 title: 'Assignment 2: MLPs'
 # pdf: 
-# link: https://app.crowdmark.com/student/assessments/assignment-1-fundamentals
+link: https://app.crowdmark.com/student/assessments/assignment-2-mlps-and-optimizers
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
     date: 2026-10-09T23:30:00
     description: 'Assignment #2 due'
-hide_from_announcments: true
+hide_from_announcments: false
 ---
 Please submit through the provided Crowdmark link

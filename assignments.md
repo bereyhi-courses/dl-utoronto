@@ -25,10 +25,10 @@ As mentioned in the main page, the course will consists of 5 assignment sets. Ea
 - Deadline is on __September 25, 2026__ at __11:30 PM EST__
 - No late submission is accepted
 
-### Assignment 2: Deep Learning and MLPs
-<!-- - [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _January 29, 2026_ 
-- Deadline is on __February 12, 2026__ at __11:59 PM EST__
-- No submission is accepted after the deadline -->
+### Assignment 2: MLPs and Optimizers
+- [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _September 25, 2026_ 
+- Deadline is on __October 09, 2026__ at __11:30 PM EST__
+- No submission is accepted after the deadline
 
 ### Assignment 3: CNNs and ResNets
 <!-- - [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _February 14, 2026_ 
