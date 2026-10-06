@@ -12,6 +12,7 @@ The lecture notes are uploaded through the semester.
 * [Lecture 02]({{site.baseurl}}/assets/Notes/L02_handout.pdf): Deep NNs and Gradient Descent
 * [Lecture 03]({{site.baseurl}}/assets/Notes/L03_handout.pdf): Multiclass Classification and Backpropagation
 * [Lecture 04]({{site.baseurl}}/assets/Notes/L04_handout.pdf): Optimizers and Generalization
+* [Lecture 05]({{site.baseurl}}/assets/Notes/L05_handout.pdf): Convolutional NNs
 
 <!-- ### Chapter 1: Fundamentals of Deep Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Motivation to Learn DL
