@@ -186,9 +186,9 @@ The following reading list might be updated through the semester.
 ### Chapter 4: Convolutional NNs
 #### Development of CNNs
 * [Hubel and Wiesel Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC1359523/) Paper _Receptive fields, binocular interaction and functional architecture in the cat's visual cortex_ published in 1962 by _D. Hubel and T. Wiesel_ elaborating their finding on visual understanding
-* [Neocognitron](https://link.springer.com/article/10.1007/BF00344251) Paper _Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position_ published in 1980 by _K. Fukushima _ proposing the Neocognitron as a computational model for visual learning
+* [Neocognitron](https://link.springer.com/article/10.1007/BF00344251) Paper _Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position_ published in 1980 by _K. Fukushima_ proposing the Neocognitron as a computational model for visual learning
 * [Backpropagating on LeNet](https://direct.mit.edu/neco/article/1/4/541/5515/Backpropagation-Applied-to-Handwritten-Zip-Code) Paper _Backpropagation Applied to Handwritten Zip Code Recognition_ published in 1989 by _Y. LeCun et al._ developing backpropagation for LeNet
-* [LeNet](https://link.springer.com/article/10.1007/BF00344251) Paper _Gradient-Based Learning Applied to Document Recognition_ published in 1998 by _Y. LeCun et al._ discussing LeNet
+* [LeNet](https://ieeexplore.ieee.org/document/726791) Paper _Gradient-Based Learning Applied to Document Recognition_ published in 1998 by _Y. LeCun et al._ discussing LeNet
 
 #### Components of CNN
 * [Convolution](https://www.deeplearningbook.org/): Chapter 9 - Sections 9.1 and 9.2 of [[GYC]](https://www.deeplearningbook.org/)
