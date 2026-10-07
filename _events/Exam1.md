@@ -1,7 +1,7 @@
 ---
 type: exam
 date: 2026-10-16T13:00:00
-description: 'Exam I'
+description: 'Exam I on Oct 16 at 1-2pm'
 hide_from_announcments: false
 ---
 **Notes:**
