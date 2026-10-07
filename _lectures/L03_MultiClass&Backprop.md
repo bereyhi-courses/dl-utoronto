@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-09-22T13:00:00
-title: "Lecture 08: Multiclass Classification and Backpropagation"
+title: "Lecture 3: Multiclass Classification and Backpropagation"
 tldr: "Forward Pass"
 stat: lec
 # for lectures stat: lec
