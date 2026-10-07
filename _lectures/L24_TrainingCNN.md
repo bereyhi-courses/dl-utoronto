@@ -16,3 +16,5 @@ hide_from_announcments: false
 * [LeCun's Paper](https://ieeexplore.ieee.org/document/726791) Paper _Gradient-based learning applied to document recognition_ published in 2002 by _Y. LeCun et al._ summarizing the learning process in CNN
 * [Efficient Backpropagation on CNN](https://inria.hal.science/inria-00112631/PDF/p1038112283956.pdf) Paper _High Performance Convolutional Neural Networks for Document Processing_ published in 2006 by _K. Chellapilla et al._  discussing efficient backpropagation on CNNs.
  -->
+
+ <!-- * [Backpropagating on LeNet](https://direct.mit.edu/neco/article/1/4/541/5515/Backpropagation-Applied-to-Handwritten-Zip-Code) Paper _Backpropagation Applied to Handwritten Zip Code Recognition_ published in 1989 by _Y. LeCun et al._ developing backpropagation for LeNet -->
