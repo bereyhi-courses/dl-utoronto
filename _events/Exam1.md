@@ -7,5 +7,5 @@ hide_from_announcments: false
 **Notes:**
 - The exam is 1 hour, during the tutorials, i.e., 1-2pm
 - No programming questions
-- It takes place in tutorial room
+- It takes place in __OI-G162 (OISE)__
 - You can bring one A4 page (one-sided) cheat sheet
