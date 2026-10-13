@@ -31,9 +31,9 @@ As mentioned in the main page, the course will consists of 5 assignment sets. Ea
 - No submission is accepted after the deadline
 
 ### Assignment 3: CNNs and ResNets
-<!-- - [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _February 14, 2026_ 
-- Deadline is on __March 05, 2026__ at __11:59 PM EST__
-- No submission is accepted after the deadline -->
+- [Assignment 3]({{site.baseurl}}/assignments/03_assignment3) has been posted on _October 12, 2026_ 
+- Deadline is on __November 06, 2026__ at __11:30 PM EST__
+- No submission is accepted after the deadline
 
 ### Assignment 4: Sequence Models and Transformers
 <!-- - [Assignment 4]({{site.baseurl}}/assignments/05_assignment4) has been posted on _March 13, 2026_ 
