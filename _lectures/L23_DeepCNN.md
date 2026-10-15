@@ -13,7 +13,5 @@ hide_from_announcments: false
 - [Chapter 4 - Section 4]({{ site.baseurl }}/assets/Notes/CH4/CH4_Sec4.pdf) 
 
 **Further Reads:**
-* [Convolution](https://www.deeplearningbook.org/): Chapter 9 - Sections 9.4 and 9.6 of [[GYC]](https://www.deeplearningbook.org/)
-* [VGG](https://arxiv.org/abs/1409.1556) Paper _Very Deep Convolutional Networks for Large-Scale Image Recognition_ published in 2014 by _K. Simonyan and A. Zisserman_ proposing VGG Architectures
-
- -->
+* [Batch-Norm](https://proceedings.mlr.press/v37/ioffe15.html) Paper _Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift_ published in 2015 by _S. Ioffe and C. Szegedy_ proposing Batch Normalization
+* [Batch-Norm Meaning](https://proceedings.neurips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html) Paper _How Does Batch Normalization Help Optimization?_ published in 2018 by _S. Santurkar et al._ discussing why Batch Normalization works: they claim that the main reason is that loss landscape is getting much smoother
