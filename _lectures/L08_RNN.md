@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-11-03T13:10:00
-title: "Lecture 7: RNNs and Gated Architectures"
+title: "Lecture 8: RNNs and Gated Architectures"
 tldr: "RNNs"
 stat: lec
 # for lectures stat: lec
