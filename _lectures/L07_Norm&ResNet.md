@@ -10,7 +10,7 @@ videoID: cbzIUOoDP0E
 hide_from_announcments: false
 ---
 **Lecture Notes:**
-- [Lecture 6]({{ site.baseurl }}/assets/Notes/L07_handout.pdf)
+- [Lecture 7]({{ site.baseurl }}/assets/Notes/L07_handout.pdf)
 
 **Further Reads:**
 * [Batch-Norm](https://proceedings.mlr.press/v37/ioffe15.html) Paper _Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift_ published in 2015 by _S. Ioffe and C. Szegedy_ proposing Batch Normalization
