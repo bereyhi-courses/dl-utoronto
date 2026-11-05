@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-10-13T13:10:00
-title: "Lecture 06: Deep CNNs"
+title: "Lecture 6: Deep CNNs"
 tldr: "Batch-Norm"
 stat: lec
 # for lectures stat: lec
