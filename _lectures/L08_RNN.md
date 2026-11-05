@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-11-03T13:10:00
-title: "RNN"
-tldr: "RNNs and Gated Architectures"
+title: "Lecture 7: RNNs and Gated Architectures"
+tldr: "RNNs"
 stat: lec
 # for lectures stat: lec
 description: We study sequence data and their processing by NNs. We see that due to temporal connection, we cannot process them separately. We hence need to develop a sequence model. We study the most basic design for sequence processing, i.e., a recurrent NN. We see that by sequential processing of data, we need to backpropagate through time. This leads to finite memory due to the vanishing gradient behavior. We then learn the gating principle as a key idea to extend the memory through time. This idea leads to gated architectures, such as LSTM and GRU.
