@@ -82,6 +82,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 3 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial3.zip) -- [Tutorial 3 Video](https://play.library.utoronto.ca/watch/f0c42f26df85e049b920879730d88580): Practical Aspects in Training, by __Saleh Tabatabaei__ 
 * [Tutorial 4 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial4.zip) -- [Tutorial 4 Video](https://play.library.utoronto.ca/watch/691ceb571f706659baa2addcec12881c): Introduction to CNNs, by __Cassie Li__ 
 * [Tutorial 5 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial5.zip) -- [Tutorial 5 Video](https://play.library.utoronto.ca/watch/96bac2ca0fe903e87f5918f23a4fa3f7): Midterm Review, by __Cassie Li__ 
+* [Tutorial 6 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial6.zip): Sequential Models -- RNN and Gated Architectures, by __Saleh Tabatabaei__ _(Unfortunately not recorded)_
 
 
 
