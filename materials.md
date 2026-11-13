@@ -76,7 +76,7 @@ The lecture notes are uploaded through the semester.
 
 
 
-## Tutorial Notebooks
+## Tutorial Notebooks and Videos
 The tutorial notebooks can be accessed below.
 * [Tutorial 1 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial1.zip) -- [Tutorial 1 Video](https://play.library.utoronto.ca/watch/f4f6bfbc371c76874568cd92208f2ce2): Fundamentals of DL, by __Saleh Tabatabaei__ 
 * [Tutorial 2 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial2.zip) -- [Tutorial 2 Video](https://play.library.utoronto.ca/watch/38c17554915583faac614d44867bc8f2): MLPs and Autograd, by __Saleh Tabatabaei__ 
@@ -84,6 +84,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 4 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial4.zip) -- [Tutorial 4 Video](https://play.library.utoronto.ca/watch/691ceb571f706659baa2addcec12881c): Introduction to CNNs, by __Cassie Li__ 
 * [Tutorial 5 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial5.zip) -- [Tutorial 5 Video](https://play.library.utoronto.ca/watch/96bac2ca0fe903e87f5918f23a4fa3f7): Midterm Review, by __Cassie Li__ 
 * [Tutorial 6 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial6.zip): Sequential Models -- RNN and Gated Architectures, by __Saleh Tabatabaei__ _(Unfortunately not recorded)_
+* [Tutorial 7 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial7.zip) -- [Tutorial 7 Video](https://play.library.utoronto.ca/watch/edc01c561dc265f91056ad79e0eba1dc): Sequence to Sequence Models, by __Saleh Tabatabaei__
 
 
 
