@@ -17,6 +17,7 @@ The lecture notes are uploaded through the semester.
 * [Lecture 07]({{site.baseurl}}/assets/Notes/L07_handout.pdf): Normalization and Residual Learning
 * [Lecture 08]({{site.baseurl}}/assets/Notes/L08_handout.pdf): Recurrent NNs and Gated Architectures
 * [Lecture 09]({{site.baseurl}}/assets/Notes/L09_handout.pdf): Sequence Models and Transformers
+* [Lecture 10]({{site.baseurl}}/assets/Notes/L10_handout.pdf): Multimodal Transformers and LMs
 
 <!-- ### Chapter 1: Fundamentals of Deep Learning
 * [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Motivation to Learn DL
