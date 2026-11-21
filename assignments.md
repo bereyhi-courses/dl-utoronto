@@ -41,9 +41,9 @@ As mentioned in the main page, the course will consists of 5 assignment sets. Ea
 - No submission is accepted after the deadline
 
 ### Assignment 5: Autoencoding and VAEs
-<!-- - [Assignment 5]({{site.baseurl}}/assignments/05_assignment4) has been posted on _March 13, 2026_ 
-- Deadline is on __March 27, 2026__ at __11:59 PM EST__
-- No submission is accepted after the deadline -->
+- [Assignment 5]({{site.baseurl}}/assignments/05_assignment5) has been posted on _November 20, 2026_ 
+- Deadline is on __December 04, 2026__ at __11:30 PM EST__
+- No submission is accepted after the deadline
 
 
 ## How to Submit
