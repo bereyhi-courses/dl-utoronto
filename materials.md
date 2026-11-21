@@ -86,6 +86,8 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 5 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial5.zip) -- [Tutorial 5 Video](https://play.library.utoronto.ca/watch/96bac2ca0fe903e87f5918f23a4fa3f7): Midterm Review, by __Cassie Li__ 
 * [Tutorial 6 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial6.zip): Sequential Models -- RNN and Gated Architectures, by __Saleh Tabatabaei__ _(Unfortunately not recorded)_
 * [Tutorial 7 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial7.zip) -- [Tutorial 7 Video](https://play.library.utoronto.ca/watch/edc01c561dc265f91056ad79e0eba1dc): Sequence to Sequence Models, by __Saleh Tabatabaei__
+* [Tutorial 8 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial8.zip) -- [Tutorial 8 Video](https://play.library.utoronto.ca/watch/984c0553ee466f380c5e206bb0baf35a): Transformers, by __Saleh Tabatabaei__
+* [Tutorial 9 Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial9.zip): Autoencoders, by __Saleh Tabatabaei__
 
 
 
