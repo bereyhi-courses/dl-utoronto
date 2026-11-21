@@ -7,4 +7,6 @@ hide_from_announcments: true
 **Notes:**
 - The exam is 1 hour, during the tutorials
 - No programming questions
-- It takes place in tutorial room: MY-150
+- It covers __Lectures 6-10__
+- It takes place in Examination Centre, Room __EX-310__ 
+

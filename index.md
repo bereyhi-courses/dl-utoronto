@@ -7,6 +7,17 @@ For the Quercus page of the course please [click here](https://q.utoronto.ca/cou
 * All announcement will be sent through [Quercus](https://q.utoronto.ca/courses/473511)
 * You can access the Crowdmark and Piazza page of the course through [Quercus](https://q.utoronto.ca/courses/473511)
 
+
+## Exam II. _Location and Content_
+
+Exam 2 is scheduled for Friday __Nov 27 at 1-2 pm.__ The exam will be given in __Examination Centre, Room EX-310.__
+
+
+The exam covers the contents of __Lectures 6-10.__ As in Exam 1, you can bring a __1-sided (A4 or Letter size) cheat sheet__ and a __calculator.__
+
+
+
+
 <!-- ## Final Project Submission and Presentation
 
 ### Presentation Format
